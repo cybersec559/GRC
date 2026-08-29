@@ -1,0 +1,94 @@
+Control ID,Theme,Title,Description,Control Type
+A.5.1,Organizational,Policies for information security,Define and communicate management direction for information security.,Preventive
+A.5.2,Organizational,Information security roles and responsibilities,Define and allocate security roles and responsibilities.,Preventive
+A.5.3,Organizational,Segregation of duties,Separate conflicting duties to reduce fraud/error risk.,Preventive
+A.5.4,Organizational,Management responsibilities,Require management to enforce security policy compliance.,Preventive
+A.5.5,Organizational,Contact with authorities,Maintain contact with relevant authorities (law enforcement regulators).,Preventive
+A.5.6,Organizational,Contact with special interest groups,Maintain contact with security forums/associations for threat awareness.,Preventive
+A.5.7,Organizational,Threat intelligence,Collect and analyze information on emerging threats.,Detective
+A.5.8,Organizational,Information security in project management,Integrate security into project management methodology.,Preventive
+A.5.9,Organizational,Inventory of information and other associated assets,Maintain an inventory of assets and their owners.,Preventive
+A.5.10,Organizational,Acceptable use of information and other associated assets,Define rules for acceptable use of assets.,Preventive
+A.5.11,Organizational,Return of assets,Require return of assets upon change/termination of employment.,Preventive
+A.5.12,Organizational,Classification of information,Classify information by confidentiality/integrity/availability needs.,Preventive
+A.5.13,Organizational,Labelling of information,Label information per its classification scheme.,Preventive
+A.5.14,Organizational,Information transfer,Establish rules/procedures for information transfer.,Preventive
+A.5.15,Organizational,Access control,Establish rules to control physical/logical access.,Preventive
+A.5.16,Organizational,Identity management,Manage the full lifecycle of identities.,Preventive
+A.5.17,Organizational,Authentication information,Control allocation and management of authentication information.,Preventive
+A.5.18,Organizational,Access rights,Provision review and revoke access rights per policy.,Preventive
+A.5.19,Organizational,Information security in supplier relationships,Define security requirements for supplier relationships.,Preventive
+A.5.20,Organizational,Addressing information security within supplier agreements,Include security requirements in supplier contracts.,Preventive
+A.5.21,Organizational,Managing information security in the ICT supply chain,Manage security risk in the ICT product/service supply chain.,Preventive
+A.5.22,Organizational,"Monitoring, review and change management of supplier services",Monitor and review supplier service delivery.,Detective
+A.5.23,Organizational,Information security for use of cloud services,Define processes for acquisition/use of cloud services.,Preventive
+A.5.24,Organizational,Information security incident management planning and preparation,Plan and prepare incident management processes/roles.,Preventive
+A.5.25,Organizational,Assessment and decision on information security events,Assess events to decide if they are incidents.,Detective
+A.5.26,Organizational,Response to information security incidents,Respond to incidents per documented procedures.,Corrective
+A.5.27,Organizational,Learning from information security incidents,Use incident knowledge to reduce future incident likelihood/impact.,Corrective
+A.5.28,Organizational,Collection of evidence,Establish procedures for identification/collection of incident evidence.,Corrective
+A.5.29,Organizational,Information security during disruption,Maintain security during a disruption.,Corrective
+A.5.30,Organizational,ICT readiness for business continuity,Plan ICT readiness to support continuity objectives.,Preventive
+A.5.31,Organizational,"Legal, statutory, regulatory and contractual requirements",Identify and meet applicable legal/regulatory requirements.,Preventive
+A.5.32,Organizational,Intellectual property rights,Protect intellectual property rights.,Preventive
+A.5.33,Organizational,Protection of records,Protect records from loss/destruction/falsification.,Preventive
+A.5.34,Organizational,Privacy and protection of PII,Identify and meet privacy/PII protection requirements.,Preventive
+A.5.35,Organizational,Independent review of information security,Independently review the ISMS at planned intervals.,Detective
+A.5.36,Organizational,"Compliance with policies, rules and standards for information security",Regularly review compliance with security policy.,Detective
+A.5.37,Organizational,Documented operating procedures,Document and make available operating procedures.,Preventive
+A.6.1,People,Screening,Perform background verification checks on candidates.,Preventive
+A.6.2,People,Terms and conditions of employment,State personnel security responsibilities in employment agreements.,Preventive
+A.6.3,People,"Information security awareness, education and training",Provide security awareness training to personnel.,Preventive
+A.6.4,People,Disciplinary process,Formalize and communicate a disciplinary process for policy violations.,Corrective
+A.6.5,People,Responsibilities after termination or change of employment,Define security responsibilities that survive termination/role change.,Preventive
+A.6.6,People,Confidentiality or non-disclosure agreements,Identify and require appropriate confidentiality agreements.,Preventive
+A.6.7,People,Remote working,Implement security measures for remote working.,Preventive
+A.6.8,People,Information security event reporting,Provide a mechanism for personnel to report observed events.,Detective
+A.7.1,Physical,Physical security perimeters,Define and protect security perimeters.,Preventive
+A.7.2,Physical,Physical entry,Protect secure areas by appropriate entry controls.,Preventive
+A.7.3,Physical,"Securing offices, rooms and facilities",Design and apply physical security for offices/rooms.,Preventive
+A.7.4,Physical,Physical security monitoring,Continuously monitor premises for unauthorized physical access.,Detective
+A.7.5,Physical,Protecting against physical and environmental threats,Design/implement protection against physical/environmental threats.,Preventive
+A.7.6,Physical,Working in secure areas,Design/apply security measures for working in secure areas.,Preventive
+A.7.7,Physical,Clear desk and clear screen,Adopt clear desk/clear screen rules.,Preventive
+A.7.8,Physical,Equipment siting and protection,Site/protect equipment to reduce risk.,Preventive
+A.7.9,Physical,Security of assets off-premises,Protect off-site assets.,Preventive
+A.7.10,Physical,Storage media,Manage storage media through its lifecycle.,Preventive
+A.7.11,Physical,Supporting utilities,Protect facilities from utility failures.,Preventive
+A.7.12,Physical,Cabling security,Protect power/data cabling from interception/damage.,Preventive
+A.7.13,Physical,Equipment maintenance,Maintain equipment correctly for availability/integrity.,Preventive
+A.7.14,Physical,Secure disposal or re-use of equipment,Verify data/licensed software removal before disposal/reuse.,Preventive
+A.8.1,Technological,User endpoint devices,Protect information on user endpoint devices.,Preventive
+A.8.2,Technological,Privileged access rights,Restrict and manage allocation of privileged access rights.,Preventive
+A.8.3,Technological,Information access restriction,Restrict access to information per access control policy.,Preventive
+A.8.4,Technological,Access to source code,Manage read/write access to source code.,Preventive
+A.8.5,Technological,Secure authentication,Implement secure authentication technologies/procedures.,Preventive
+A.8.6,Technological,Capacity management,"Monitor/tune resource use, project future capacity needs.",Preventive
+A.8.7,Technological,Protection against malware,Implement malware protection with user awareness.,Preventive
+A.8.8,Technological,Management of technical vulnerabilities,"Obtain vulnerability info, evaluate exposure, take action.",Preventive
+A.8.9,Technological,Configuration management,Establish/document/monitor/review secure configurations.,Preventive
+A.8.10,Technological,Information deletion,Delete information when no longer required.,Preventive
+A.8.11,Technological,Data masking,Use data masking with access control/business rules.,Preventive
+A.8.12,Technological,Data leakage prevention,Apply measures to detect/prevent data leakage.,Preventive
+A.8.13,Technological,Information backup,Maintain/test backup copies per policy.,Corrective
+A.8.14,Technological,Redundancy of information processing facilities,Implement redundancy for availability requirements.,Preventive
+A.8.15,Technological,Logging,Produce/store/protect/analyze logs of activities/exceptions/events.,Detective
+A.8.16,Technological,Monitoring activities,Monitor networks/systems/applications for anomalous behavior.,Detective
+A.8.17,Technological,Clock synchronization,Synchronize clocks to an approved time source.,Preventive
+A.8.18,Technological,Use of privileged utility programs,Restrict/control use of utility programs that could override controls.,Preventive
+A.8.19,Technological,Installation of software on operational systems,Manage software installation on operational systems.,Preventive
+A.8.20,Technological,Networks security,Manage/control networks to protect information in systems/applications.,Preventive
+A.8.21,Technological,Security of network services,Identify/implement security mechanisms for network services.,Preventive
+A.8.22,Technological,Segregation of networks,Segregate groups of information services/users/systems on networks.,Preventive
+A.8.23,Technological,Web filtering,Manage access to external websites to reduce exposure to malicious content.,Preventive
+A.8.24,Technological,Use of cryptography,Define/implement rules for effective use of cryptography.,Preventive
+A.8.25,Technological,Secure development life cycle,Establish/apply rules for secure software/system development.,Preventive
+A.8.26,Technological,Application security requirements,Identify/specify security requirements for applications.,Preventive
+A.8.27,Technological,Secure system architecture and engineering principles,Establish/apply secure engineering principles.,Preventive
+A.8.28,Technological,Secure coding,Apply secure coding principles to software development.,Preventive
+A.8.29,Technological,Security testing in development and acceptance,Define/implement security testing processes in development lifecycle.,Detective
+A.8.30,Technological,Outsourced development,Direct/monitor/review outsourced system development activity.,Preventive
+A.8.31,Technological,"Separation of development, test and production environments",Separate/secure dev/test/production environments.,Preventive
+A.8.32,Technological,Change management,Subject changes to information processing to change control procedures.,Preventive
+A.8.33,Technological,Test information,Appropriately select/protect/manage test information.,Preventive
+A.8.34,Technological,Protection of information systems during audit testing,Plan/agree audit tests and other assurance activities to minimize business disruption.,Preventive
