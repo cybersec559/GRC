@@ -1,0 +1,3 @@
+Request ID,Request Type (Know/Delete/Correct/Opt-Out/Limit Use of SPI),Date Received,Submission Method,Verification Method,Verification Status,Response Due Date (45-Day Statutory Clock),Extension Notice Sent (Y/N),Extended Due Date (+45 Days),Response Provided Date,Outcome,Status (Open/In Progress/Fulfilled/Denied/Closed),Owner
+REQ-001,Know,Example: 2026-02-01,Web form,Match against account login credentials,Verified,2026-03-18,N,,,,Open,Privacy Operations Team
+REQ-002,Delete,Example: 2026-02-03,Toll-free number,Two-factor identity match (email + account number),Verified,2026-03-20,N,,,,In Progress,Privacy Operations Team

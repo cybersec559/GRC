@@ -1,0 +1,3 @@
+Vendor ID,Vendor Name,Service Provided,Role (Service Provider/Contractor/Third Party),Contract Has Required CCPA/CPRA Terms (Y/N),Data Access Level (None/Internal/Personal Information/Sensitive PI),Risk Tier (Low/Medium/High),Last Security Review Date,Contract Review Date,Related Ref(s),Owner,Next Review Date
+VEN-001,Example: Cloud CRM Service Provider,Customer relationship management hosting,Service Provider,Y,Personal Information,High,,,"Civ. Code 1798.100(d), 1798.140(ag)",Privacy Program Manager,
+VEN-002,Example: Advertising Technology Third Party,Cross-context behavioral advertising,Third Party,Y,Personal Information,High,,,"Civ. Code 1798.140(ah), 1798.140(ai)(2)",Marketing Owner,

@@ -1,0 +1,8 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Standard,Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Workforce clearance procedure completed prior to ePHI access,164.308(a)(3)(ii),HR,,,
+ON-002,Onboarding,Confidentiality agreement signed,164.308(a)(1)(iii),HR,,,
+ON-003,Onboarding,Security awareness training assigned and scheduled,164.308(a)(5)(i),HR,,,
+ON-004,Onboarding,Access authorized and provisioned per minimum necessary standard,"164.308(a)(4)(ii), 164.502(b)",IT Operations,,,
+OFF-001,Offboarding,All system access to ePHI revoked/disabled,164.308(a)(3)(iii),IT Operations,,,
+OFF-002,Offboarding,"Company assets and media returned (laptop, badge, tokens)",164.310(a)(1)(iv),IT Operations,,,
+OFF-003,Offboarding,Reminder of ongoing confidentiality obligations issued,164.308(a)(1)(iii),HR,,,

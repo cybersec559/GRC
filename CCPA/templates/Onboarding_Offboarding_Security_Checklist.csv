@@ -1,0 +1,5 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Ref(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,"Privacy/security awareness training assigned, including consumer request handling procedures",Civ. Code 1798.100(c),HR,,,
+ON-002,Onboarding,Access to systems containing personal information provisioned per least-privilege / need-to-know,Civ. Code 1798.100(c),IT Operations,,,
+OFF-001,Offboarding,All access to systems containing personal information revoked/disabled immediately,Civ. Code 1798.100(c),IT Operations,,,
+OFF-002,Offboarding,Company assets returned and any locally stored personal information verified deleted,Civ. Code 1798.100(a)(3),IT Operations,,,

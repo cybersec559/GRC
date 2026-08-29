@@ -1,0 +1,4 @@
+Policy ID,Policy Name,Owner,Version,Approval Date,Approved By,Next Review Date,Related Practice(s)/Domain,Status (Draft/Approved/Under Review/Retired)
+POL-001,Example: Information Security Policy,CISO,1.0,,Executive Leadership,,All domains,Approved
+POL-002,Example: Access Control Policy,IT Security Manager,1.0,,CISO,,AC (Access Control),Approved
+POL-003,Example: CUI Media Handling Policy,IT Security Manager,1.0,,CISO,,MP (Media Protection),Approved

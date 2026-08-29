@@ -1,0 +1,3 @@
+Vendor ID,Vendor Name,Service Provided,Data Access Level (None/Internal/Confidential/Restricted),Risk Tier (Low/Medium/High),Security Questionnaire Status,Last Security Review Date,Contract Review Date,Related Subcategory(ies),Owner,Next Review Date
+VEN-001,Example: Cloud Infrastructure Provider,Hosting/IaaS,Confidential,High,Completed - Reviewed,,,"GV.SC-04, GV.SC-06, GV.SC-07",IT Security Manager,
+VEN-002,Example: Payroll Processing Vendor,HR/Payroll SaaS,Confidential,Medium,Completed - Reviewed,,,"GV.SC-04, GV.SC-06",HR,

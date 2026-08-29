@@ -1,0 +1,2 @@
+Risk ID,Asset/System Component,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Treatment Decision (Treat/Transfer/Avoid/Accept),Related Controls,Residual Likelihood (1-5),Residual Impact (1-5),Residual Risk Score,Owner,Review Date,Status
+RISK-001,Example: Core application database,Unauthorized external access,Insufficient vulnerability scanning cadence,3,5,15,Treat,"RA-5, AC-3, SC-7",1,5,5,ISSO,,Open

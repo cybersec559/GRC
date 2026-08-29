@@ -1,0 +1,19 @@
+Activity,Related Subcategory(ies)/Category,Responsible (R),Accountable (A),Consulted (C),Informed (I)
+Current Profile development,"GV.OC-01, GV.OC-02",IT Security Manager,CISO,Department Managers,Executive Leadership
+Target Profile development,GV.RM-01,IT Security Manager,CISO,Executive Leadership,All Personnel
+Tier assessment / maturity scoring,GV.OV-02,IT Security Manager,CISO,Internal Audit,Executive Leadership
+Gap analysis (Current vs. Target Profile),"GV.OV-01, ID.IM-01",IT Security Manager,CISO,Department Managers,Executive Leadership
+Asset inventory maintenance,"ID.AM-01, ID.AM-02",IT Operations,IT Security Manager,Department Managers,CISO
+Risk assessment & risk register maintenance,ID.RA-01,IT Security Manager,CISO,Department Managers,Executive Leadership
+Access rights provisioning & review,"PR.AA-05, PR.AA-01",IT Operations,IT Security Manager,Department Managers,CISO
+Security awareness training delivery,PR.AT-01,HR,IT Security Manager,Department Managers,All Personnel
+Supply chain / vendor risk assessment,"GV.SC-06, GV.SC-07",IT Security Manager,CISO,Legal/Compliance,Procurement
+Continuous monitoring operations,DE.CM-01,IT Security Manager,CISO,IT Operations,Executive Leadership
+Incident response execution,"RS.MA-01, RS.MI-01",IT Security Manager,CISO,Legal/Compliance,Executive Leadership
+Incident recovery execution,RC.RP-01,IT Operations,CISO,Legal/Compliance,Executive Leadership
+Internal audit / gap review execution,GV.OV-03,Internal Audit,CISO,IT Security Manager,Executive Leadership
+Profile review (leadership),GV.OV-01,CISO,Executive Leadership,IT Security Manager,All Personnel
+Vulnerability management & patching,PR.PS-02,IT Operations,IT Security Manager,,CISO
+Policy review & approval,GV.PO-01,IT Security Manager,CISO,Legal/Compliance,All Personnel
+Evidence collection & submission,GV.OV-03,Control Owner,IT Security Manager,,Internal Audit
+Competence & training records maintenance,GV.RR-04,HR,IT Security Manager,,CISO

@@ -1,0 +1,3 @@
+Media ID,Media Type,Contains CUI (Y/N),Classification,Owner/Custodian,Location,Contents Description,Encryption Status (Y/N + Method),Date Acquired,Last Review Date,Disposal Date,Disposal Method,Status (Active/Retired/Disposed)
+MED-001,Example: Encrypted external HDD,Y,CUI,IT Operations,Secured storage cabinet - Server Room,Quarterly CUI backup archive,Y - AES-256,,,,,Active
+MED-002,Example: Backup tape,Y,CUI,IT Operations,Offsite storage facility,Monthly full backup,Y - AES-256,,,,,Active

@@ -1,0 +1,3 @@
+Record ID,Personnel/Role,Security-Relevant Responsibility,Required Competence,Education/Certification,Training Completed,Relevant Experience,Evidence Reference,Date Verified,Next Review Date,Reviewer
+COMP-001,Example: IT Security Manager,Owns CUI safeguarding control implementation and SSP maintenance,"NIST SP 800-171 practitioner knowledge, risk assessment methodology",CISSP / CMMC Registered Practitioner,CMMC/800-171 implementation course,5+ years information security management in a regulated environment,,,,
+COMP-002,Example: Systems Administrator,Administers access control and audit logging systems,"Access control administration, log management",,Security awareness + role-specific system training,,,,,

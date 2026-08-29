@@ -1,0 +1,2 @@
+Media ID,Media Type,Contains Federal Data (Y/N),Owner/Custodian,Location,Contents Description,Encryption Status (Y/N + Method),Date Acquired,Last Review Date,Disposal Date,Disposal Method,Status (Active/Retired/Disposed)
+MED-001,Example: Encrypted external backup drive,Y,Cloud Operations Team,Secured storage - authorized data center,Weekly full system backup archive,Y - AES-256,,,,,Active

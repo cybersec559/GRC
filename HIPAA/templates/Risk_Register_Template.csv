@@ -1,0 +1,2 @@
+Risk ID,Asset,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Treatment Decision (Treat/Transfer/Avoid/Accept),Related Standard,Residual Likelihood (1-5),Residual Impact (1-5),Residual Risk Score,Owner,Review Date,Status
+RISK-001,Example: Patient records database,Unauthorized external access to ePHI,Weak access review cadence,3,5,15,Treat,"164.308(a)(4)(ii), 164.312(a)(1)(i)",1,5,5,HIPAA Security Officer,,Open

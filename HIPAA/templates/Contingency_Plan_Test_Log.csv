@@ -1,0 +1,2 @@
+Test ID,Test Date,Plan Component Tested (Data Backup Plan/Disaster Recovery Plan/Emergency Mode Operation Plan/Applications and Data Criticality Analysis),Scenario Tested,Systems/Processes in Scope,RTO Target,RTO Achieved,RPO Target,RPO Achieved,Issues Found,Remediation Actions,Related Standard,Owner,Next Test Date
+CP-001,Example: 2026-03-01,Disaster Recovery Plan,Primary data center outage failover,Clinical records database and application tier,4 hours,,1 hour,,,,"164.308(a)(7)(ii), 164.308(a)(7)(iv)",IT Operations,

@@ -1,0 +1,15 @@
+Activity,Related Requirement(s),Responsible (R),Accountable (A),Consulted (C),Informed (I)
+FIPS 199 categorization & baseline selection,"CAT-1, CAT-2",ISSO,CSO Program Manager,System Owner,Authorizing Official (AO)
+SSP development and maintenance,DOC-1,ISSO,CSO Program Manager,Cloud Operations Team,3PAO
+3PAO engagement and assessment scheduling,"3PAO-1, 3PAO-2",CSO Program Manager,Authorizing Official (AO),3PAO Assessor,JAB (if applicable)
+Monthly vulnerability scanning,CONMON-1,Cloud Operations Team,ISSO,3PAO Assessor,Authorizing Official (AO)
+Monthly POA&M updates,"CONMON-2, DOC-4",ISSO,CSO Program Manager,System Owner,Authorizing Official (AO)
+Annual security assessment,CONMON-3,3PAO Assessor,Authorizing Official (AO),ISSO,CSO Program Manager
+Annual penetration test,CONMON-4,3PAO Assessor,ISSO,Cloud Operations Team,Authorizing Official (AO)
+Contingency Plan testing,"DOC-5, CONMON-5",Cloud Operations Team,ISSO,System Owner,Authorizing Official (AO)
+Significant Change Request submission,"SCR-1, SCR-2",ISSO,CSO Program Manager,Cloud Operations Team,Authorizing Official (AO)
+Incident response execution & US-CERT reporting,"INC-1, INC-2",ISSO,CSO Program Manager,Legal/Compliance,Authorizing Official (AO)
+Personnel screening for federal data access,"PS-1, PS-2",HR,CSO Program Manager,ISSO,Authorizing Official (AO)
+Boundary & data flow diagram maintenance,"BND-1, BND-2, BND-3",ISSO,CSO Program Manager,Cloud Operations Team,3PAO Assessor
+FedRAMP Marketplace status updates,"MKT-1, MKT-2, MKT-3",CSO Program Manager,Authorizing Official (AO),ISSO,Executive Leadership
+Authorization/ConMon review meeting,CONMON-6,CSO Program Manager,Authorizing Official (AO),ISSO,All Personnel

@@ -1,0 +1,3 @@
+Component ID,Component Name,Component Type,Owner,Location/Custodian,Confidentiality (Low/Med/High),Integrity (Low/Med/High),Availability (Low/Med/High),Overall Categorization (FIPS 199),Related Controls,Last Review Date
+SYS-001,Example: Core application database,Information System Component,System Owner,Primary data center,High,High,High,High,"CM-8, SC-28, AC-3",
+SYS-002,Example: Employee endpoint fleet,Hardware/Endpoint,ISSO,Managed via endpoint management platform,Moderate,Moderate,Moderate,Moderate,"CM-8, AC-19",

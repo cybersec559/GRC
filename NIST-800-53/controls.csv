@@ -1,0 +1,303 @@
+Control ID,Family,Title,Description
+AC-1,Access Control,Policy and Procedures,"Develop, document, and disseminate access control policy and procedures."
+AC-2,Access Control,Account Management,"Manage system accounts, including establishment, activation, modification, review, and removal."
+AC-3,Access Control,Access Enforcement,Enforce approved authorizations for logical access to information and system resources.
+AC-4,Access Control,Information Flow Enforcement,Control the flow of information within the system and between interconnected systems.
+AC-5,Access Control,Separation of Duties,Separate duties of individuals to reduce the risk of malevolent or unintentional activity.
+AC-6,Access Control,Least Privilege,"Employ the principle of least privilege, allowing only authorized access needed to accomplish assigned tasks."
+AC-7,Access Control,Unsuccessful Logon Attempts,Enforce a limit on consecutive invalid logon attempts and take action when the limit is exceeded.
+AC-8,Access Control,System Use Notification,Display an approved system use notification message before granting access to the system.
+AC-9,Access Control,Previous Logon Notification,Notify users of the date and time of their previous logon at successful logon.
+AC-10,Access Control,Concurrent Session Control,Limit the number of concurrent sessions for each account.
+AC-11,Access Control,Device Lock,Prevent further access by initiating a device lock after a defined period of inactivity.
+AC-12,Access Control,Session Termination,Automatically terminate a user session after defined conditions or trigger events are met.
+AC-14,Access Control,Permitted Actions without Identification or Authentication,Identify specific user actions permitted without identification or authentication.
+AC-16,Access Control,Security and Privacy Attributes,"Associate security and privacy attributes with information in storage, processing, and transmission."
+AC-17,Access Control,Remote Access,Establish and document usage restrictions and implementation guidance for remote access.
+AC-18,Access Control,Wireless Access,Establish usage restrictions and implementation guidance for wireless access.
+AC-19,Access Control,Access Control for Mobile Devices,Establish usage restrictions and implementation guidance for organization-controlled mobile devices.
+AC-20,Access Control,Use of External Systems,Establish terms and conditions for use of external systems by authorized individuals.
+AC-21,Access Control,Information Sharing,Facilitate information sharing by enabling authorized users to determine sharing and collaboration circumstances.
+AC-22,Access Control,Publicly Accessible Content,Designate individuals authorized to post information onto publicly accessible systems and review proposed content.
+AC-23,Access Control,Data Mining Protection,Employ safeguards to detect and protect against unauthorized data mining.
+AC-24,Access Control,Access Control Decisions,Establish procedures for making access control decisions consistently across the organization.
+AC-25,Access Control,Reference Monitor,"Implement a reference monitor for access control that is tamperproof, non-bypassable, and evaluable."
+AT-1,Awareness and Training,Policy and Procedures,"Develop, document, and disseminate awareness and training policy and procedures."
+AT-2,Awareness and Training,Literacy Training and Awareness,Provide security and privacy literacy training to system users.
+AT-3,Awareness and Training,Role-based Training,Provide role-based security and privacy training to personnel with assigned security or privacy roles.
+AT-4,Awareness and Training,Training Records,"Document and monitor individual training activities, including basic and role-based training."
+AT-6,Awareness and Training,Training Feedback,Provide feedback on organizational training results to relevant stakeholders.
+AU-1,Audit and Accountability,Policy and Procedures,"Develop, document, and disseminate audit and accountability policy and procedures."
+AU-2,Audit and Accountability,Event Logging,Identify the types of events that the system is capable of logging in support of the audit function.
+AU-3,Audit and Accountability,Content of Audit Records,"Ensure audit records contain information establishing what, when, where, source, and outcome of events."
+AU-4,Audit and Accountability,Audit Log Storage Capacity,Allocate audit log storage capacity to accommodate defined audit log retention requirements.
+AU-5,Audit and Accountability,Response to Audit Logging Process Failures,Alert designated personnel and take defined action in the event of an audit logging process failure.
+AU-6,Audit and Accountability,"Audit Record Review, Analysis, and Reporting",Review and analyze system audit records for indications of inappropriate or unusual activity.
+AU-7,Audit and Accountability,Audit Record Reduction and Report Generation,Provide an audit record reduction and report generation capability supporting analysis and reporting.
+AU-8,Audit and Accountability,Time Stamps,Use internal system clocks to generate time stamps for audit records.
+AU-9,Audit and Accountability,Protection of Audit Information,"Protect audit information and audit logging tools from unauthorized access, modification, and deletion."
+AU-10,Audit and Accountability,Non-repudiation,Provide irrefutable evidence that an individual took a specific action to protect against later denial.
+AU-11,Audit and Accountability,Audit Record Retention,Retain audit records for a defined time period to support after-the-fact investigations.
+AU-12,Audit and Accountability,Audit Record Generation,Provide audit record generation capability for the auditable events defined for the system.
+AU-13,Audit and Accountability,Monitoring for Information Disclosure,Monitor open-source information and information sources for evidence of unauthorized disclosure.
+AU-14,Audit and Accountability,Session Audit,Provide the capability to capture and log the content of a user session for defined circumstances.
+AU-16,Audit and Accountability,Cross-organizational Audit Logging,Coordinate audit information sharing among external organizations for cross-organizational audit trails.
+CA-1,"Assessment, Authorization, and Monitoring",Policy and Procedures,"Develop, document, and disseminate assessment, authorization, and monitoring policy and procedures."
+CA-2,"Assessment, Authorization, and Monitoring",Control Assessments,Assess the controls in the system and its environment of operation to determine effectiveness.
+CA-3,"Assessment, Authorization, and Monitoring",Information Exchange,Approve and manage the exchange of information between the system and other systems.
+CA-5,"Assessment, Authorization, and Monitoring",Plan of Action and Milestones,Develop a plan of action and milestones to document planned remediation of control weaknesses.
+CA-6,"Assessment, Authorization, and Monitoring",Authorization,Assign a senior official as the authorizing official for the system.
+CA-7,"Assessment, Authorization, and Monitoring",Continuous Monitoring,Develop a system-level continuous monitoring strategy and implement continuous monitoring.
+CA-8,"Assessment, Authorization, and Monitoring",Penetration Testing,Conduct penetration testing on defined systems or system components.
+CA-9,"Assessment, Authorization, and Monitoring",Internal System Connections,Authorize internal connections of system components or classes of components to the system.
+CM-1,Configuration Management,Policy and Procedures,"Develop, document, and disseminate configuration management policy and procedures."
+CM-2,Configuration Management,Baseline Configuration,"Develop, document, and maintain a current baseline configuration of the system."
+CM-3,Configuration Management,Configuration Change Control,Determine and document the types of changes to the system that are configuration-controlled.
+CM-4,Configuration Management,Impact Analyses,Analyze changes to the system to determine potential security and privacy impacts prior to implementation.
+CM-5,Configuration Management,Access Restrictions for Change,"Define, document, approve, and enforce physical and logical access restrictions for system changes."
+CM-6,Configuration Management,Configuration Settings,Establish and document configuration settings for components using security configuration checklists.
+CM-7,Configuration Management,Least Functionality,Configure the system to provide only essential capabilities.
+CM-8,Configuration Management,System Component Inventory,Develop and document an inventory of system components.
+CM-9,Configuration Management,Configuration Management Plan,"Develop, document, and implement a configuration management plan for the system."
+CM-10,Configuration Management,Software Usage Restrictions,Use software and associated documentation in accordance with contract agreements and copyright laws.
+CM-11,Configuration Management,User-installed Software,Establish policies governing the installation of software by users.
+CM-12,Configuration Management,Information Location,Identify and document the location of information and the system components on which it resides.
+CM-13,Configuration Management,Data Action Mapping,Develop and document a map of system data actions.
+CM-14,Configuration Management,Signed Components,Prevent installation of software and firmware components without verification that they have been digitally signed.
+CP-1,Contingency Planning,Policy and Procedures,"Develop, document, and disseminate contingency planning policy and procedures."
+CP-2,Contingency Planning,Contingency Plan,Develop a contingency plan for the system that addresses essential mission and business functions.
+CP-3,Contingency Planning,Contingency Training,Provide contingency training to system users consistent with assigned roles and responsibilities.
+CP-4,Contingency Planning,Contingency Plan Testing,Test the contingency plan for the system to determine its effectiveness and organizational readiness.
+CP-6,Contingency Planning,Alternate Storage Site,Establish an alternate storage site to permit storage and retrieval of backup information.
+CP-7,Contingency Planning,Alternate Processing Site,Establish an alternate processing site to permit resumption of system operations.
+CP-8,Contingency Planning,Telecommunications Services,Establish alternate telecommunications services to support resumption of system operations.
+CP-9,Contingency Planning,System Backup,Conduct backups of user-level and system-level information contained in the system.
+CP-10,Contingency Planning,System Recovery and Reconstitution,"Provide for the recovery and reconstitution of the system after a disruption, compromise, or failure."
+CP-11,Contingency Planning,Alternate Communications Protocols,Provide the capability to employ alternate communications protocols in support of maintaining continuity.
+CP-12,Contingency Planning,Safe Mode,Employ a defined safe mode of operation with restrictions of safeguards when specified conditions are met.
+CP-13,Contingency Planning,Alternative Security Mechanisms,Employ alternative or supplemental security mechanisms to satisfy security functions when the primary means are unavailable.
+IA-1,Identification and Authentication,Policy and Procedures,"Develop, document, and disseminate identification and authentication policy and procedures."
+IA-2,Identification and Authentication,Identification and Authentication (Organizational Users),Uniquely identify and authenticate organizational users and processes acting on their behalf.
+IA-3,Identification and Authentication,Device Identification and Authentication,Uniquely identify and authenticate defined devices before establishing a connection.
+IA-4,Identification and Authentication,Identifier Management,"Manage system identifiers by assigning, verifying, and preventing reuse of identifiers."
+IA-5,Identification and Authentication,Authenticator Management,"Manage system authenticators, including initial distribution, change, and revocation."
+IA-6,Identification and Authentication,Authentication Feedback,Obscure authentication feedback information during the authentication process.
+IA-7,Identification and Authentication,Cryptographic Module Authentication,Implement mechanisms for authentication to a cryptographic module.
+IA-8,Identification and Authentication,Identification and Authentication (Non-Organizational Users),Uniquely identify and authenticate non-organizational users or processes acting on their behalf.
+IA-9,Identification and Authentication,Service Identification and Authentication,Identify and authenticate defined system services and applications before establishing communications.
+IA-10,Identification and Authentication,Adaptive Authentication,Employ additional authentication mechanisms based on defined risk factors.
+IA-11,Identification and Authentication,Re-authentication,Require users and devices to re-authenticate when defined circumstances or situations require.
+IA-12,Identification and Authentication,Identity Proofing,Identity-proof users that require accounts to a defined identity assurance level.
+IR-1,Incident Response,Policy and Procedures,"Develop, document, and disseminate incident response policy and procedures."
+IR-2,Incident Response,Incident Response Training,Provide incident response training to system users consistent with assigned roles and responsibilities.
+IR-3,Incident Response,Incident Response Testing,Test the incident response capability for the system to determine its effectiveness.
+IR-4,Incident Response,Incident Handling,Implement an incident handling capability for security and privacy incidents.
+IR-5,Incident Response,Incident Monitoring,Track and document security and privacy incidents.
+IR-6,Incident Response,Incident Reporting,Require personnel to report suspected incidents to the organizational incident response capability.
+IR-7,Incident Response,Incident Response Assistance,Provide an incident response support resource that offers advice and assistance to system users.
+IR-8,Incident Response,Incident Response Plan,Develop an incident response plan that provides the organization with a roadmap for implementing its capability.
+IR-9,Incident Response,Information Spillage Response,Respond to information spills by identifying the specific information involved and containing it.
+IR-10,Incident Response,Integrated Information Security Analysis Team,Establish an integrated team of forensic and malicious code analysts and incident responders.
+MA-1,Maintenance,Policy and Procedures,"Develop, document, and disseminate maintenance policy and procedures."
+MA-2,Maintenance,Controlled Maintenance,"Schedule, document, and review records of maintenance and repairs on system components."
+MA-3,Maintenance,Maintenance Tools,"Approve, control, and monitor the use of system maintenance tools."
+MA-4,Maintenance,Nonlocal Maintenance,Approve and monitor nonlocal maintenance and diagnostic activities.
+MA-5,Maintenance,Maintenance Personnel,Establish a process for authorizing maintenance personnel and maintain a list of authorized individuals.
+MA-6,Maintenance,Timely Maintenance,Obtain maintenance support and spare parts within a defined time period of failure.
+MA-7,Maintenance,Field Maintenance,Restrict or prohibit field maintenance on defined system components.
+MP-1,Media Protection,Policy and Procedures,"Develop, document, and disseminate media protection policy and procedures."
+MP-2,Media Protection,Media Access,Restrict access to defined types of digital and non-digital media to authorized individuals.
+MP-3,Media Protection,Media Marking,Mark system media indicating distribution limitations and handling caveats.
+MP-4,Media Protection,Media Storage,Physically control and securely store defined types of digital and non-digital media.
+MP-5,Media Protection,Media Transport,Protect and control defined types of media during transport outside of controlled areas.
+MP-6,Media Protection,Media Sanitization,"Sanitize system media prior to disposal, release out of organizational control, or release for reuse."
+MP-7,Media Protection,Media Use,Restrict or prohibit the use of defined types of system media on systems or system components.
+MP-8,Media Protection,Media Downgrading,Establish and implement system media downgrading process and mechanisms.
+PE-1,Physical and Environmental Protection,Policy and Procedures,"Develop, document, and disseminate physical and environmental protection policy and procedures."
+PE-2,Physical and Environmental Protection,Physical Access Authorizations,"Develop, approve, and maintain a list of individuals with authorized access to the facility."
+PE-3,Physical and Environmental Protection,Physical Access Control,Enforce physical access authorizations at defined entry and exit points to the facility.
+PE-4,Physical and Environmental Protection,Access Control for Transmission,Control physical access to system distribution and transmission lines within organizational facilities.
+PE-5,Physical and Environmental Protection,Access Control for Output Devices,Control physical access to output from system output devices to prevent unauthorized individuals from obtaining output.
+PE-6,Physical and Environmental Protection,Monitoring Physical Access,Monitor physical access to the facility to detect and respond to physical security incidents.
+PE-8,Physical and Environmental Protection,Visitor Access Records,Maintain visitor access records to the facility for a defined time period.
+PE-9,Physical and Environmental Protection,Power Equipment and Cabling,Protect power equipment and power cabling from damage and destruction.
+PE-10,Physical and Environmental Protection,Emergency Shutoff,Provide the capability of shutting off power to the system or components in emergency situations.
+PE-11,Physical and Environmental Protection,Emergency Power,Provide an uninterruptible power supply to facilitate an orderly shutdown or transition to alternate power.
+PE-12,Physical and Environmental Protection,Emergency Lighting,Employ and maintain automatic emergency lighting for the facility.
+PE-13,Physical and Environmental Protection,Fire Protection,Employ and maintain fire detection and suppression systems supported by an independent energy source.
+PE-14,Physical and Environmental Protection,Environmental Controls,Maintain temperature and humidity levels within the facility at acceptable levels.
+PE-15,Physical and Environmental Protection,Water Damage Protection,Protect the system from damage resulting from water leakage.
+PE-16,Physical and Environmental Protection,Delivery and Removal,"Authorize, monitor, and control the types of system components entering and exiting the facility."
+PE-17,Physical and Environmental Protection,Alternate Work Site,Determine alternate work sites and provide equipment and communications infrastructure at those sites.
+PE-18,Physical and Environmental Protection,Location of System Components,Position system components within the facility to minimize potential damage and unauthorized access.
+PE-19,Physical and Environmental Protection,Information Leakage,Protect the system from information leakage due to electromagnetic signal emanations.
+PE-20,Physical and Environmental Protection,Asset Monitoring and Tracking,Employ tracking technologies to monitor the location and movement of defined assets.
+PE-21,Physical and Environmental Protection,Electromagnetic Pulse Protection,Employ defined protective measures against electromagnetic pulse damage for defined system components.
+PE-22,Physical and Environmental Protection,Component Marking,Mark defined system hardware components indicating the impact level of information permitted to be processed.
+PE-23,Physical and Environmental Protection,Facility Location,"Plan the location of the facility, giving consideration to physical and environmental hazards."
+PL-1,Planning,Policy and Procedures,"Develop, document, and disseminate planning policy and procedures."
+PL-2,Planning,System Security and Privacy Plans,Develop security and privacy plans for the system that are consistent with the enterprise architecture.
+PL-4,Planning,Rules of Behavior,Establish and provide to system users the rules describing their responsibilities and expected behavior.
+PL-7,Planning,Concept of Operations,Develop a concept of operations for the system describing how the organization intends to operate it.
+PL-8,Planning,Security and Privacy Architectures,Develop security and privacy architectures for the system consistent with the enterprise architecture.
+PL-9,Planning,Central Management,Centrally manage defined controls and related processes.
+PL-10,Planning,Baseline Selection,Select a control baseline for the system.
+PL-11,Planning,Baseline Tailoring,Tailor the selected control baseline by applying specified tailoring actions.
+PM-1,Program Management,Information Security Program Plan,Develop and disseminate an organization-wide information security program plan.
+PM-2,Program Management,Information Security Program Leadership Role,Appoint a senior official with the mission and resources to coordinate the information security program.
+PM-3,Program Management,Information Security and Privacy Resources,Ensure that resources needed to implement security and privacy programs are available and requested in capital planning.
+PM-4,Program Management,Plan of Action and Milestones Process,Implement a process to ensure plans of action and milestones are maintained and remediation progress tracked.
+PM-5,Program Management,System Inventory,Develop and maintain an inventory of organizational systems.
+PM-6,Program Management,Measures of Performance,"Develop, monitor, and report on the results of information security and privacy measures of performance."
+PM-7,Program Management,Enterprise Architecture,Develop and maintain an enterprise architecture with consideration for information security and privacy.
+PM-8,Program Management,Critical Infrastructure Plan,"Address information security and privacy issues in the development, documentation, and updating of a critical infrastructure plan."
+PM-9,Program Management,Risk Management Strategy,"Develop a comprehensive strategy to manage risk to organizational operations, assets, and individuals."
+PM-10,Program Management,Authorization Process,Manage the security and privacy state of organizational systems through an authorization process.
+PM-11,Program Management,Mission and Business Process Definition,Define organizational mission and business processes with consideration for information security and privacy.
+PM-12,Program Management,Insider Threat Program,Implement an insider threat program including a cross-discipline group to manage insider threat risk.
+PM-13,Program Management,Security and Privacy Workforce,Establish a security and privacy workforce development and improvement program.
+PM-14,Program Management,"Testing, Training, and Monitoring","Implement a process for ensuring that plans for testing, training, and monitoring associated with organizational systems are maintained."
+PM-15,Program Management,Contacts with Security Groups and Associations,Establish and maintain contact with selected groups and associations within the security and privacy communities.
+PM-16,Program Management,Threat Awareness Program,Implement a threat awareness program that includes a cross-organizational information-sharing capability.
+PM-17,Program Management,Protecting Controlled Unclassified Information on External Systems,Establish policy and procedures for ensuring controlled unclassified information processed on external systems is protected.
+PM-18,Program Management,Privacy Program Plan,Develop and disseminate an organization-wide privacy program plan.
+PM-19,Program Management,Privacy Program Leadership Role,Appoint a senior official with the mission and resources to coordinate the privacy program.
+PM-20,Program Management,Dissemination of Privacy Program Information,Ensure the public has access to information about organizational privacy activities.
+PM-21,Program Management,Accounting of Disclosures,Develop and maintain an accurate accounting of disclosures of records containing personally identifiable information.
+PM-22,Program Management,Personally Identifiable Information Quality Management,Develop and document an organization-wide policy for personally identifiable information data quality management.
+PM-23,Program Management,Data Governance Body,Establish a data governance body with defined responsibility for security and privacy governance.
+PM-24,Program Management,Data Integrity Board,Establish a data integrity board to oversee organizational computer matching agreements.
+PM-25,Program Management,"Minimization of Personally Identifiable Information used in Testing, Training, and Research","Develop policies and procedures to minimize the use of personally identifiable information for testing, training, and research."
+PM-26,Program Management,Complaint Management,"Implement a process for receiving and responding to complaints, concerns, or questions about organizational privacy practices."
+PM-27,Program Management,Privacy Reporting,Develop privacy reports for oversight bodies to demonstrate accountability of the privacy program.
+PM-28,Program Management,Risk Framing,"Identify and document risk assumptions, constraints, priorities, and trade-offs used in managing organizational risk."
+PM-29,Program Management,Risk Management Program Leadership Roles,Appoint senior officials to align risk management resources and activities with organizational risk strategy.
+PM-30,Program Management,Supply Chain Risk Management Strategy,Develop an organization-wide strategy for managing supply chain risks.
+PM-31,Program Management,Continuous Monitoring Strategy,Develop an organization-wide continuous monitoring strategy and implement continuous monitoring.
+PM-32,Program Management,Purposing,Analyze systems supporting mission essential functions to ensure adequate protection against adversary use to compromise those functions.
+PS-1,Personnel Security,Policy and Procedures,"Develop, document, and disseminate personnel security policy and procedures."
+PS-2,Personnel Security,Position Risk Designation,Assign a risk designation to all organizational positions.
+PS-3,Personnel Security,Personnel Screening,Screen individuals prior to authorizing access to the system.
+PS-4,Personnel Security,Personnel Termination,"Upon termination of individual employment, disable system access and conduct exit interview procedures."
+PS-5,Personnel Security,Personnel Transfer,Review and confirm ongoing operational need for current logical and physical access upon personnel transfer or reassignment.
+PS-6,Personnel Security,Access Agreements,Develop and document access agreements for organizational systems.
+PS-7,Personnel Security,External Personnel Security,Establish personnel security requirements for external providers.
+PS-8,Personnel Security,Personnel Sanctions,Employ a formal sanctions process for individuals failing to comply with established security and privacy policies.
+PS-9,Personnel Security,Position Descriptions,Incorporate security and privacy roles and responsibilities into organizational position descriptions.
+PT-1,PII Processing and Transparency,Policy and Procedures,"Develop, document, and disseminate PII processing and transparency policy and procedures."
+PT-2,PII Processing and Transparency,Authority to Process Personally Identifiable Information,"Determine and document the legal authority that permits the collection, use, maintenance, and sharing of personally identifiable information."
+PT-3,PII Processing and Transparency,Personally Identifiable Information Processing Purposes,Identify and document the purposes for processing personally identifiable information.
+PT-4,PII Processing and Transparency,Consent,Implement tools to facilitate individuals' informed decision-making regarding the processing of their personally identifiable information.
+PT-5,PII Processing and Transparency,Privacy Notice,Provide notice to individuals about the processing of personally identifiable information.
+PT-6,PII Processing and Transparency,System of Records Notice,"Publish system of records notices as required and keep them accurate, current, and scoped."
+PT-7,PII Processing and Transparency,Specific Categories of Personally Identifiable Information,Apply defined processing conditions for specific categories of personally identifiable information.
+PT-8,PII Processing and Transparency,Computer Matching Requirements,Establish policies and procedures for a computer matching program when personally identifiable information is processed.
+RA-1,Risk Assessment,Policy and Procedures,"Develop, document, and disseminate risk assessment policy and procedures."
+RA-2,Risk Assessment,Security Categorization,"Categorize the system and the information it processes, stores, and transmits."
+RA-3,Risk Assessment,Risk Assessment,"Conduct a risk assessment to identify threats and vulnerabilities to organizational operations, assets, and individuals."
+RA-5,Risk Assessment,Vulnerability Monitoring and Scanning,Monitor and scan for vulnerabilities in the system and hosted applications.
+RA-6,Risk Assessment,Technical Surveillance Countermeasures Survey,Employ a technical surveillance countermeasures survey at defined locations.
+RA-7,Risk Assessment,Risk Response,"Respond to findings from security and privacy assessments, monitoring, and audits."
+RA-8,Risk Assessment,Privacy Impact Assessments,"Conduct privacy impact assessments for systems, programs, or activities that process personally identifiable information."
+RA-9,Risk Assessment,Criticality Analysis,Identify critical system components and functions by performing a criticality analysis.
+RA-10,Risk Assessment,Threat Hunting,Establish and maintain a cyber threat hunting capability to search for indicators of compromise.
+SA-1,System and Services Acquisition,Policy and Procedures,"Develop, document, and disseminate system and services acquisition policy and procedures."
+SA-2,System and Services Acquisition,Allocation of Resources,Determine the resources required to protect the system as part of organizational capital planning and investment control.
+SA-3,System and Services Acquisition,System Development Life Cycle,Manage the system using a system development life cycle that incorporates information security and privacy considerations.
+SA-4,System and Services Acquisition,Acquisition Process,"Include security and privacy requirements, descriptions, and criteria in the acquisition contract for the system."
+SA-5,System and Services Acquisition,System Documentation,Obtain and protect administrator and user documentation for the system.
+SA-8,System and Services Acquisition,Security and Privacy Engineering Principles,"Apply systems security and privacy engineering principles in the specification, design, development, and modification of the system."
+SA-9,System and Services Acquisition,External System Services,Require that external providers of system services comply with organizational security and privacy requirements.
+SA-10,System and Services Acquisition,Developer Configuration Management,"Require the developer of the system to perform configuration management during design, development, and implementation."
+SA-11,System and Services Acquisition,Developer Testing and Evaluation,Require the developer of the system to create and implement a security and privacy assessment plan.
+SA-15,System and Services Acquisition,"Development Process, Standards, and Tools",Require the developer of the system to follow a documented development process addressing security and privacy requirements.
+SA-16,System and Services Acquisition,Developer-provided Training,Require the developer of the system to provide training on the correct use and operation of implemented security and privacy functions.
+SA-17,System and Services Acquisition,Developer Security and Privacy Architecture and Design,Require the developer of the system to produce a design specification describing the security and privacy architecture.
+SA-18,System and Services Acquisition,Tamper Resistance and Detection,"Implement anti-tamper technologies and techniques during system design, development, and integration."
+SA-19,System and Services Acquisition,Component Authenticity,Develop and implement anti-counterfeit policy and procedures to detect counterfeit system components.
+SA-20,System and Services Acquisition,Customized Development of Critical Components,Reimplement or custom develop defined critical system components.
+SA-21,System and Services Acquisition,Developer Screening,Require developers of the system to have appropriate access authorizations and screening.
+SA-22,System and Services Acquisition,Unsupported System Components,Replace system components when support for the components is no longer available from the developer or manufacturer.
+SA-23,System and Services Acquisition,Specialization,Employ specialized system or component configurations to increase resilience against adversary threats.
+SC-1,System and Communications Protection,Policy and Procedures,"Develop, document, and disseminate system and communications protection policy and procedures."
+SC-2,System and Communications Protection,Separation of System and User Functionality,"Separate user functionality, including user interface services, from system management functionality."
+SC-3,System and Communications Protection,Security Function Isolation,Isolate security functions from nonsecurity functions.
+SC-4,System and Communications Protection,Information in Shared System Resources,Prevent unauthorized and unintended information transfer via shared system resources.
+SC-5,System and Communications Protection,Denial-of-service Protection,Protect against or limit the effects of defined types of denial-of-service events.
+SC-6,System and Communications Protection,Resource Availability,Protect the availability of resources by allocating defined resources by priority and quota.
+SC-7,System and Communications Protection,Boundary Protection,Monitor and control communications at the external boundary of the system and at key internal boundaries.
+SC-8,System and Communications Protection,Transmission Confidentiality and Integrity,Protect the confidentiality and integrity of transmitted information.
+SC-10,System and Communications Protection,Network Disconnect,Terminate the network connection associated with a communications session at the end of the session or after a defined period of inactivity.
+SC-11,System and Communications Protection,Trusted Path,Provide a trusted communications path between the user and defined security functions of the system.
+SC-12,System and Communications Protection,Cryptographic Key Establishment and Management,Establish and manage cryptographic keys for required cryptography employed within the system.
+SC-13,System and Communications Protection,Cryptographic Protection,Determine defined cryptographic uses and implement the required types of cryptography for each use.
+SC-15,System and Communications Protection,Collaborative Computing Devices and Applications,Prohibit remote activation of collaborative computing devices and applications with defined exceptions.
+SC-16,System and Communications Protection,Transmission of Security and Privacy Attributes,Associate defined security and privacy attributes with information exchanged between systems.
+SC-17,System and Communications Protection,Public Key Infrastructure Certificates,Issue public key certificates under a defined certificate policy or obtain certificates from an approved service provider.
+SC-18,System and Communications Protection,Mobile Code,Define acceptable and unacceptable mobile code and mobile code technologies and establish usage restrictions.
+SC-19,System and Communications Protection,Voice Over Internet Protocol,Establish usage restrictions and implementation guidance for Voice over Internet Protocol technologies.
+SC-20,System and Communications Protection,Secure Name/Address Resolution Service (Authoritative Source),Provide additional data origin authentication and integrity verification artifacts for authoritative name/address resolution responses.
+SC-21,System and Communications Protection,Secure Name/Address Resolution Service (Recursive or Caching Resolver),Request and perform data origin authentication and data integrity verification on name/address resolution responses.
+SC-22,System and Communications Protection,Architecture and Provisioning for Name/Address Resolution Service,Ensure systems that collectively provide name/address resolution service are fault-tolerant and implement role separation.
+SC-23,System and Communications Protection,Session Authenticity,Protect the authenticity of communications sessions.
+SC-24,System and Communications Protection,Fail in Known State,"Fail to a defined known state, preserving system state information, in the event of a failure."
+SC-25,System and Communications Protection,Thin Nodes,Employ minimal functionality and information storage on defined system components.
+SC-26,System and Communications Protection,Decoys,Include components within the system specifically designed to be the target of malicious attacks for detection and analysis.
+SC-27,System and Communications Protection,Platform-independent Applications,Include platform-independent applications within the system.
+SC-28,System and Communications Protection,Protection of Information at Rest,Protect the confidentiality and integrity of defined information at rest.
+SC-29,System and Communications Protection,Heterogeneity,Employ a diverse set of information technologies to reduce the impact of exploitation of a specific technology.
+SC-30,System and Communications Protection,Concealment and Misdirection,Employ concealment and misdirection techniques to confuse and impede adversaries.
+SC-31,System and Communications Protection,Covert Channel Analysis,Analyze system components to identify covert storage channels and covert timing channels.
+SC-32,System and Communications Protection,System Partitioning,Partition the system into defined components residing in separate physical or logical domains.
+SC-34,System and Communications Protection,Non-modifiable Executable Programs,"Load and execute defined applications from hardware-enforced, read-only media."
+SC-35,System and Communications Protection,External Malicious Code Identification,Include components within the system specifically designed to proactively seek to identify malicious code injected by adversaries.
+SC-36,System and Communications Protection,Distributed Processing and Storage,Distribute defined processing and storage across multiple physical locations or components.
+SC-37,System and Communications Protection,Out-of-band Channels,Employ defined out-of-band channels for the physical delivery or electronic transmission of defined information.
+SC-38,System and Communications Protection,Operations Security,Employ defined operations security safeguards to protect key organizational information throughout the system development life cycle.
+SC-39,System and Communications Protection,Process Isolation,Maintain a separate execution domain for each executing system process.
+SC-40,System and Communications Protection,Wireless Link Protection,Protect external and internal wireless links from defined types of signal parameter attacks or interference.
+SC-41,System and Communications Protection,Port and I/O Device Access,Physically disable or remove defined connection ports or input/output devices on defined system components.
+SC-42,System and Communications Protection,Sensor Capability and Data,Prohibit remote activation of environmental sensing capabilities with defined exceptions.
+SC-43,System and Communications Protection,Usage Restrictions,Establish usage restrictions and implementation guidance for defined system components.
+SC-44,System and Communications Protection,Detonation Chambers,Employ a detonation chamber capability within a defined isolated environment.
+SC-45,System and Communications Protection,System Time Synchronization,Synchronize system clocks within and between systems and networks.
+SC-46,System and Communications Protection,Cross Domain Policy Enforcement,Implement a policy enforcement mechanism between physical and/or network domains.
+SC-47,System and Communications Protection,Alternate Communications Paths,Establish defined alternate communications paths for system operations organizational command and control.
+SC-48,System and Communications Protection,Sensor Relocation,Relocate defined sensors and monitoring capabilities when displaced by adversary action.
+SC-49,System and Communications Protection,Hardware-enforced Separation and Policy Enforcement,Implement hardware-enforced separation and policy enforcement mechanisms between defined system components.
+SC-50,System and Communications Protection,Software-enforced Separation and Policy Enforcement,Implement software-enforced separation and policy enforcement mechanisms between defined system components.
+SC-51,System and Communications Protection,Hardware-based Protection,"Employ hardware-based, write-protect technology to protect defined system firmware components."
+SI-1,System and Information Integrity,Policy and Procedures,"Develop, document, and disseminate system and information integrity policy and procedures."
+SI-2,System and Information Integrity,Flaw Remediation,"Identify, report, and correct system flaws."
+SI-3,System and Information Integrity,Malicious Code Protection,Implement signature-based and/or non-signature-based malicious code protection mechanisms.
+SI-4,System and Information Integrity,System Monitoring,"Monitor the system to detect attacks, indicators of potential attacks, and unauthorized local, network, and remote connections."
+SI-5,System and Information Integrity,"Security Alerts, Advisories, and Directives","Receive and act on system security alerts, advisories, and directives from designated external organizations."
+SI-6,System and Information Integrity,Security and Privacy Function Verification,Verify the correct operation of defined security and privacy functions.
+SI-7,System and Information Integrity,"Software, Firmware, and Information Integrity","Employ integrity verification tools to detect unauthorized changes to defined software, firmware, and information."
+SI-8,System and Information Integrity,Spam Protection,Employ spam protection mechanisms at defined system entry and exit points.
+SI-10,System and Information Integrity,Information Input Validation,Check the validity of defined information inputs to the system.
+SI-11,System and Information Integrity,Error Handling,Generate error messages that provide information necessary for corrective action without revealing exploitable information.
+SI-12,System and Information Integrity,Information Management and Retention,Manage and retain information within the system and information output from the system in accordance with requirements.
+SI-13,System and Information Integrity,Predictable Failure Prevention,Determine mean time to failure for defined system components and provide substitute components as needed.
+SI-14,System and Information Integrity,Non-persistence,Implement non-persistent defined components and services that are initiated in a known state.
+SI-15,System and Information Integrity,Information Output Filtering,Validate information output from defined software programs and/or applications.
+SI-16,System and Information Integrity,Memory Protection,Implement controls to protect system memory from unauthorized code execution.
+SI-17,System and Information Integrity,Fail-safe Procedures,Implement defined fail-safe procedures when defined failure conditions occur.
+SI-18,System and Information Integrity,Personally Identifiable Information Quality Operations,"Check the accuracy, relevance, timeliness, and completeness of personally identifiable information across the information life cycle."
+SI-19,System and Information Integrity,De-identification,Remove defined elements of personally identifiable information from datasets or use a defined de-identification technique.
+SI-20,System and Information Integrity,Tainting,Embed data or capabilities in defined systems to determine if organizational data has been exfiltrated or improperly removed.
+SI-21,System and Information Integrity,Information Refresh,Refresh defined information at a defined frequency or generate the information on demand.
+SI-22,System and Information Integrity,Information Diversity,Identify alternative information sources for defined essential functions in the event of a loss of primary information source.
+SI-23,System and Information Integrity,Information Fragmentation,Fragment defined information and distribute the fragments to multiple physical locations or components.
+SR-1,Supply Chain Risk Management,Policy and Procedures,"Develop, document, and disseminate supply chain risk management policy and procedures."
+SR-2,Supply Chain Risk Management,Supply Chain Risk Management Plan,"Develop a plan for managing supply chain risks associated with the research, development, design, and delivery of the system."
+SR-3,Supply Chain Risk Management,Supply Chain Controls and Processes,Establish a process to identify and address weaknesses or deficiencies in the supply chain elements and processes.
+SR-4,Supply Chain Risk Management,Provenance,"Document, monitor, and maintain valid provenance of the system, system components, and associated data."
+SR-5,Supply Chain Risk Management,"Acquisition Strategies, Tools, and Methods","Employ defined acquisition strategies, contract tools, and procurement methods to protect against supply chain risks."
+SR-6,Supply Chain Risk Management,Supplier Assessments and Reviews,Assess and review the supply chain-related risks associated with suppliers or contractors.
+SR-7,Supply Chain Risk Management,Supply Chain Operations Security,Employ defined operations security safeguards to protect supply chain-related information for the system.
+SR-8,Supply Chain Risk Management,Notification Agreements,Establish agreements and procedures with entities involved in the supply chain for notification of supply chain compromises.
+SR-9,Supply Chain Risk Management,Tamper Resistance and Detection,Employ anti-tamper technologies and techniques to detect physical tampering or alteration of system components.
+SR-10,Supply Chain Risk Management,Inspection of Systems or Components,Inspect defined systems or system components at defined times or occurrences to detect tampering.
+SR-11,Supply Chain Risk Management,Component Authenticity,Develop and implement anti-counterfeit policy and procedures to detect and prevent counterfeit components from entering the system.
+SR-12,Supply Chain Risk Management,Component Disposal,"Dispose of defined data, documentation, tools, or system components using defined techniques and methods."

@@ -1,0 +1,2 @@
+Review ID,System/Application,Review Period,Reviewer,Review Date,Total Accounts Reviewed,Findings,Access Revoked (Y/N + Details),Related Standard,Status (Completed/In Progress),Next Review Date
+AR-001,Example: Clinical Records System,Q1 2026,HIPAA Security Officer,,42,2 accounts flagged as no longer needed,Y - 2 accounts disabled,"164.308(a)(4)(iii), 164.312(a)(1)(i)",Completed,

@@ -1,0 +1,4 @@
+Asset ID,Asset Name,Asset Type,Owner,Location/Custodian,Contains ePHI (Y/N),Confidentiality (Low/Med/High),Integrity (Low/Med/High),Availability (Low/Med/High),Overall Classification,Related Standard,Last Review Date
+AST-001,Example: Patient records database,Information System,HIPAA Security Officer,Primary data center / cloud region,Y,High,High,High,Confidential - ePHI,164.308(a)(1)(i),
+AST-002,Example: Clinical workstation fleet,Equipment,IT Operations,Managed via endpoint management platform,Y,High,Medium,Medium,Confidential - ePHI,"164.310(b), 164.310(c)",
+AST-003,Example: Encrypted backup media set,Media,IT Operations,Offsite secured storage facility,Y,High,High,Medium,Confidential - ePHI,164.310(d)(1)(iv),

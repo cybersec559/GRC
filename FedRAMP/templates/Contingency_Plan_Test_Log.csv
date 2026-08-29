@@ -1,0 +1,2 @@
+Test ID,Test Date,Scenario Tested,Systems/Components in Scope,RTO Target,RTO Achieved,RPO Target,RPO Achieved,Issues Found,Remediation Actions,Related Requirement(s),Owner,Next Test Date
+CP-TEST-001,Example: 2026-03-01,Primary authorized data center outage failover,Federal data processing application and database tier,4 hours,,1 hour,,,,"DOC-5, CONMON-5",Cloud Operations Team,

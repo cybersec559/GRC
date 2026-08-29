@@ -1,0 +1,5 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Practice(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Background screening completed prior to start date,PS.L2-3.9.1,HR,,,
+ON-002,Onboarding,"Access provisioned per least-privilege / role, scoped to FCI/CUI need-to-know","AC.L2-3.1.1, AC.L2-3.1.5",IT Operations,,,
+OFF-001,Offboarding,All system access revoked/disabled,"AC.L2-3.1.1, PS.L2-3.9.2",IT Operations,,,
+OFF-002,Offboarding,Company assets and CUI-bearing media returned,MP.L2-3.8.1,IT Operations,,,

@@ -1,0 +1,2 @@
+Change ID,Description,Impact Assessment,Notification Date,Agency/JAB Response,Approval Status,Implementation Date,Owner
+SCR-001,Example: Migration of primary database from single-region to multi-region deployment within the authorization boundary,Moderate impact - expands data replication scope; no new external interconnections introduced,2026-01-05,Approved with request for updated data flow diagram,Approved,2026-02-01,ISSO

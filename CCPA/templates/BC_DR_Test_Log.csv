@@ -1,0 +1,2 @@
+Test ID,Test Date,Scenario Tested,Systems/Processes in Scope,RTO Target,RTO Achieved,RPO Target,RPO Achieved,Issues Found,Remediation Actions,Related Ref(s),Owner,Next Test Date
+BCDR-001,Example: 2026-03-01,Consumer request intake system outage failover,Consumer Request Log and verification workflow,4 hours,,1 hour,,,,Civ. Code 1798.130(a)(2),IT Operations,

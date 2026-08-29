@@ -1,0 +1,3 @@
+POAM ID,Related Practice ID,Weakness Description,Risk Level (Low/Medium/High),Milestones with Completion Dates,Resources Required,Scheduled Completion Date,Status (Open/In Progress/Completed/Overdue),Owner
+POAM-001,SC.L2-3.13.11,FIPS-validated cryptography not yet implemented for CUI at rest on file share,High,1) Select FIPS-validated module (by 2026-09-30); 2) Deploy to production (by 2026-11-15); 3) Validate and close (by 2026-11-30),"Encryption module licensing, engineering hours",2026-11-30,In Progress,IT Security Manager
+POAM-002,AU.L2-3.3.5,Audit log correlation is manual and inconsistent across systems,Medium,1) Evaluate SIEM options (by 2026-10-15); 2) Onboard log sources (by 2027-01-15),SIEM tooling budget,2027-01-15,Open,IT Operations

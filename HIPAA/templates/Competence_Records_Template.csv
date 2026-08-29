@@ -1,0 +1,3 @@
+Record ID,Personnel/Role,Security-Relevant Responsibility,Required Competence,Education/Certification,Training Completed,Relevant Experience,Evidence Reference,Date Verified,Next Review Date,Reviewer
+COMP-001,Example: HIPAA Security Officer,Owns risk analysis and Security Rule implementation (164.308(a)(2)),"Risk analysis methodology, HIPAA Security Rule knowledge",CISSP / HCISPP,HIPAA Security Rule training,5+ years healthcare information security management,,,,
+COMP-002,Example: HIPAA Privacy Officer,"Owns Notice of Privacy Practices and individual rights processes (164.520, 164.524, 164.526)","Privacy Rule knowledge, designated record set management",,Privacy Rule and minimum necessary training,3+ years healthcare privacy compliance,,,,

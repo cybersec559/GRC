@@ -1,0 +1,15 @@
+Activity,Related Practice(s)/Domain,Responsible (R),Accountable (A),Consulted (C),Informed (I)
+Risk assessment & risk register maintenance,RA (Risk Assessment),IT Security Manager,CISO,Department Managers,Executive Leadership
+System Security Plan maintenance,CA.L2-3.12.4,IT Security Manager,CISO,Internal Audit,Executive Leadership
+Access rights provisioning & review,"AC.L2-3.1.1, AC.L2-3.1.5",IT Operations,IT Security Manager,Department Managers,CISO
+Incident response execution,IR (Incident Response),IT Security Manager,CISO,Legal/Compliance,Executive Leadership
+Security awareness training delivery,AT (Awareness and Training),HR,IT Security Manager,Department Managers,All Personnel
+Flow-down of CUI requirements to subcontractors,Vendor/subcontractor risk,Contracts Manager,CISO,Legal/Compliance,Procurement
+Internal readiness review execution,Internal audit,Internal Audit,CISO,IT Security Manager,Executive Leadership
+SPRS score submission and maintenance,CA.L2-3.12.1,IT Security Manager,CISO,Contracts Manager,Executive Leadership
+POA&M tracking to closure,CA.L2-3.12.2,IT Security Manager,CISO,Department Managers,Internal Audit
+Vulnerability management & patching,"RA.L2-3.11.2, RA.L2-3.11.3",IT Operations,IT Security Manager,,CISO
+Change management approval,CM.L2-3.4.3,Change Advisory Board,IT Security Manager,IT Operations,CISO
+Policy review & approval,Policy governance,IT Security Manager,CISO,Legal/Compliance,All Personnel
+Evidence collection & submission,All domains,Control Owner,IT Security Manager,,Internal Audit
+Competence & training records maintenance,AT (Awareness and Training),HR,IT Security Manager,,CISO

@@ -1,0 +1,2 @@
+Test ID,Test Date,Scenario Tested,Systems/Processes in Scope,RTO Target,RTO Achieved,RPO Target,RPO Achieved,Issues Found,Remediation Actions,Related Article(s),Owner,Next Test Date
+BCDR-001,Example: 2026-03-01,Primary data center outage failover,Core systems processing EU customer personal data,4 hours,,1 hour,,,,"Art. 5(1)(f), Art. 32",Example: IT Operations,

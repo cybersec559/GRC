@@ -1,0 +1,4 @@
+PI Category ID,Category of Personal Information,Sensitive PI (Y/N),Source,Purpose of Collection,Sold/Shared (Y/N),Retention Period,Service Providers/Third Parties with Access,Owner
+PI-001,"Example: Identifiers (name, email, account ID)",N,Direct from consumer (account signup),Account creation and service delivery,N,Duration of account + 24 months,Example: Cloud CRM Service Provider,Privacy Program Manager
+PI-002,Example: Precise geolocation data,Y,"Mobile application (device sensors, with consent)",Location-based service features,N,90 days,Example: Analytics Service Provider,Product Owner
+PI-003,Example: Commercial information (purchase history),N,Direct from consumer (transaction records),Order fulfillment and customer support,Y - Shared for cross-context behavioral advertising,36 months,Example: Advertising Technology Third Party,Marketing Owner

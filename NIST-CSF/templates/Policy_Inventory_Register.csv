@@ -1,0 +1,4 @@
+Policy ID,Policy Name,Owner,Version,Approval Date,Approved By,Next Review Date,Related Subcategory(ies),Status (Draft/Approved/Under Review/Retired)
+POL-001,Example: Information Security Policy,CISO,1.0,,Executive Leadership,,GV.PO-01,Approved
+POL-002,Example: Acceptable Use Policy,IT Security Manager,1.0,,CISO,,PR.AA-05,Approved
+POL-003,Example: Access Control Policy,IT Security Manager,1.0,,CISO,,"PR.AA-05, PR.AA-01",Approved

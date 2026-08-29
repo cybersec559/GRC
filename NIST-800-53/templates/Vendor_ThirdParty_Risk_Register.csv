@@ -1,0 +1,3 @@
+Vendor ID,Vendor Name,Service Provided,Data Access Level (None/Internal/Confidential/Restricted),Risk Tier (Low/Medium/High),Security Assessment Status,Last Security Review Date,Contract Review Date,Related Control(s),Owner,Next Review Date
+VEN-001,Example: Cloud Infrastructure Provider,Hosting/IaaS,Confidential,High,Completed - Reviewed,,,"SR-2, SR-6",ISSO,
+VEN-002,Example: Managed IT Services Provider,IT Support/Managed Services,Confidential,Medium,Completed - Reviewed,,,"SR-3, SR-6",System Owner,

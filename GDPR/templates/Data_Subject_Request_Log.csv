@@ -1,0 +1,4 @@
+Request ID,Request Type,Date Received,"Data Subject (reference only, not real PII)",Response Due Date (statutory 1-month clock),Response Provided Date,Status,Owner
+DSR-001,Access Request,2026-02-01,Example: Reference ID DS-1001 (data subject name redacted),2026-03-01,2026-02-20,Closed - Fulfilled,Example: Privacy Officer
+DSR-002,Erasure Request,2026-02-10,Example: Reference ID DS-1002 (data subject name redacted),2026-03-10,,In Progress,Example: Privacy Officer
+DSR-003,Data Portability Request,2026-02-15,Example: Reference ID DS-1003 (data subject name redacted),2026-03-15,,Open,Example: Privacy Officer

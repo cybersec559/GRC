@@ -1,0 +1,2 @@
+Risk ID,Asset/Processing Activity,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Treatment Decision (Treat/Transfer/Avoid/Accept),Related CCPA/CPRA Ref(s),Residual Likelihood (1-5),Residual Impact (1-5),Residual Risk Score,Owner,Review Date,Status
+RISK-001,Example: California consumer database,Unauthorized access to sensitive personal information,Overly broad service provider access without least-privilege review,3,5,15,Treat,"Civ. Code 1798.100(c), 1798.150",1,5,5,Privacy Program Manager,,Open

@@ -1,0 +1,3 @@
+Objective ID,Goals Cascade Metric,Metric/KPI,Target,Actual,Measurement Frequency,Related Objective(s),Owner,Status (On Track/At Risk/Not Met),Review Date
+OBJ-001,Example: Enterprise goal - Managed IT-related risk,Mean time to remediate critical vulnerabilities,<=15 days,,Monthly,"APO12, DSS05",IT Security Manager,On Track,
+OBJ-002,Example: Enterprise goal - Quality of management information,Percentage of personnel completing annual security awareness training,100%,,Annually,APO07,HR,On Track,

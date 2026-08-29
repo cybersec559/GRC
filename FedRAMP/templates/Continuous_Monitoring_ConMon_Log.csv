@@ -1,0 +1,5 @@
+ConMon Activity ID,Activity Type (Monthly Vuln Scan/Monthly POAM Update/Annual Assessment/Annual Pentest),Due Date,Completion Date,Result Summary,Findings Count,Status,Owner
+CONMON-2026-01,Monthly Vuln Scan,Example: 2026-01-31,2026-01-30,Scan completed across full authorization boundary; no critical findings,2,Completed,Cloud Operations Team
+CONMON-2026-02,Monthly POAM Update,Example: 2026-01-31,2026-01-31,POA&M updated with current status of all open items,N/A,Completed,ISSO
+CONMON-2026-03,Annual Assessment,Example: 2026-06-30,,,,Not Started,3PAO Assessor
+CONMON-2026-04,Annual Pentest,Example: 2026-06-30,,,,Not Started,3PAO Assessor

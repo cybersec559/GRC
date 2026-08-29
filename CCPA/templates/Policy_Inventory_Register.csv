@@ -1,0 +1,4 @@
+Policy ID,Policy Name,Owner,Version,Approval Date,Approved By,Next Review Date,Related Ref(s),Status (Draft/Approved/Under Review/Retired)
+POL-001,Example: Privacy Policy,Privacy Program Manager,1.0,,General Counsel,,Civ. Code 1798.130,Approved
+POL-002,Example: Notice at Collection,Privacy Program Manager,1.0,,General Counsel,,Civ. Code 1798.100(b),Approved
+POL-003,Example: Data Retention and Minimization Policy,Data Governance Lead,1.0,,Privacy Program Manager,,"Civ. Code 1798.100(c), 1798.100(a)(3)",Approved

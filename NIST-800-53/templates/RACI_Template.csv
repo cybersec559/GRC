@@ -1,0 +1,19 @@
+Activity,Related Control(s)/RMF Step,Responsible (R),Accountable (A),Consulted (C),Informed (I)
+System categorization (FIPS 199),RA-2,System Owner,Authorizing Official,ISSO,Risk Executive
+Control selection & baseline tailoring,"PL-10, PL-11",ISSO,System Owner,Security Control Assessor,Authorizing Official
+System Security Plan development & maintenance,PL-2,ISSO,System Owner,Common Control Provider,Authorizing Official
+Risk assessment & risk register maintenance,RA-3,ISSO,System Owner,Risk Executive,Authorizing Official
+Control implementation,Across all families,System Owner,ISSO,Common Control Provider,Authorizing Official
+Security control assessment,CA-2,Security Control Assessor,Authorizing Official,ISSO,System Owner
+POA&M development & tracking,CA-5,ISSO,System Owner,Security Control Assessor,Authorizing Official
+Authorization decision (ATO),CA-6,Authorizing Official,Risk Executive,ISSO,System Owner
+Continuous monitoring,CA-7,ISSO,System Owner,Security Control Assessor,Authorizing Official
+Access provisioning & recertification,"AC-2, AC-6",System Administrator,ISSO,System Owner,Authorizing Official
+Incident response execution,"IR-4, IR-6",ISSO,System Owner,Legal/Compliance,Authorizing Official
+Security awareness training delivery,AT-2,Training Coordinator,ISSO,System Owner,All Personnel
+Supply chain risk assessment,"SR-2, SR-6",ISSO,System Owner,Procurement,Authorizing Official
+Configuration management & change control,"CM-3, CM-4",System Administrator,ISSO,Change Control Board,System Owner
+Contingency plan testing,CP-4,System Administrator,System Owner,ISSO,Authorizing Official
+Vulnerability management & remediation,RA-5,System Administrator,ISSO,Security Control Assessor,System Owner
+Policy review & approval,PL-1,ISSO,Authorizing Official,Legal/Compliance,All Personnel
+Evidence collection & submission,CA-2,Control Owner,ISSO,Security Control Assessor,System Owner

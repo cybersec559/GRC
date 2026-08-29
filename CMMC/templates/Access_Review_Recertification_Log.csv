@@ -1,0 +1,2 @@
+Review ID,System/Application,Review Period,Reviewer,Review Date,Total Accounts Reviewed,Findings,Access Revoked (Y/N + Details),Related Practice(s),Status (Completed/In Progress),Next Review Date
+AR-001,Example: CUI file share,Q1 2026,IT Security Manager,,42,2 accounts flagged as no longer needed,Y - 2 accounts disabled,"AC.L2-3.1.1, AC.L2-3.1.5",Completed,

@@ -1,0 +1,2 @@
+Test ID,Test Date,Scenario Tested,Systems/Processes in Scope,RTO Target,RTO Achieved,RPO Target,RPO Achieved,Issues Found,Remediation Actions,Related Subcategory(ies),Owner,Next Test Date
+BCDR-001,Example: 2026-03-01,Primary data center outage failover,Core production database and application tier,4 hours,,1 hour,,,,"PR.IR-03, RC.RP-01",IT Operations,

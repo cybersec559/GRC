@@ -1,0 +1,12 @@
+Objective,Management Practice,Governing Body/Board,Chief Executive Officer,Chief Information Officer,IT Risk Manager,IT Security Manager,Business Process Owners,Head of HR,Head of Compliance/Legal,Internal Audit
+EDM03 Ensured Risk Optimization,EDM03.01 Evaluate risk management,A,R,C,R,C,C,I,C,I
+EDM05 Ensured Stakeholder Engagement,EDM05.02 Direct stakeholder communication and reporting,A,R,C,I,I,I,I,I,I
+APO12 Managed Risk,APO12.02 Analyze risk,I,A,R,R,C,C,I,C,I
+APO12 Managed Risk,APO12.05 Define a risk management action plan,I,A,R,R,C,C,I,C,I
+APO13 Managed Security,APO13.01 Establish and maintain an information security management system (ISMS),I,A,R,C,R,I,I,C,I
+APO13 Managed Security,APO13.02 Define and manage an information security risk treatment plan,I,A,C,C,R,C,I,C,I
+DSS02 Managed Service Requests and Incidents,DSS02.05 Resolve and recover from incidents,I,I,A,I,R,C,I,I,I
+DSS04 Managed Continuity,DSS04.03 Develop and implement a business continuity response,I,A,R,C,R,R,I,C,I
+DSS05 Managed Security Services,DSS05.04 Manage user identity and logical access,I,I,A,C,R,C,I,I,I
+MEA02 Managed System of Internal Control,MEA02.01 Monitor internal controls,I,C,A,C,C,C,I,C,R
+MEA03 Managed Compliance With External Requirements,MEA03.02 Optimize response to external requirements,I,A,C,I,C,C,C,R,I

@@ -1,0 +1,3 @@
+Vendor ID,Vendor Name,Service Provided,Leveraged/Underlying Authorization (Y/N),FedRAMP Authorization Status on File (Y/N + Level),Data Access Level (None/Internal/Federal Data/Restricted),Risk Tier (Low/Medium/High),Last Security Review Date,Contract Review Date,Related Requirement(s),Owner,Next Review Date
+VEN-001,Example: Underlying Cloud Infrastructure Provider,Hosting/IaaS,Y,Y - Moderate,Federal Data,High,,,BND-3,CSO Program Manager,
+VEN-002,Example: Managed Vulnerability Scanning Vendor,Continuous Monitoring Support,N,N/A,Internal,Medium,,,CONMON-1,ISSO,

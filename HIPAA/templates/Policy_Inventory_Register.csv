@@ -1,0 +1,4 @@
+Policy ID,Policy Name,Owner,Version,Approval Date,Approved By,Next Review Date,Related Standard,Status (Draft/Approved/Under Review/Retired)
+POL-001,Example: HIPAA Security Policy,HIPAA Security Officer,1.0,,Executive Leadership,,164.316(a),Approved
+POL-002,Example: Sanction Policy,HR,1.0,,HIPAA Security Officer,,164.308(a)(1)(iii),Approved
+POL-003,Example: Notice of Privacy Practices,HIPAA Privacy Officer,1.0,,HIPAA Privacy Officer,,164.520,Approved

@@ -1,0 +1,3 @@
+Record ID,Personnel/Role,Privacy-Relevant Responsibility,Required Competence,Education/Certification,Training Completed,Relevant Experience,Evidence Reference,Date Verified,Next Review Date,Reviewer
+COMP-001,Example: Data Protection Officer,Owns GDPR compliance oversight and advises on DPIAs,"GDPR expertise, privacy law knowledge",CIPP/E,GDPR Practitioner course,5+ years data protection experience,,,,
+COMP-002,Example: Privacy Engineer,Implements data protection by design in product development,"Privacy engineering, data minimization techniques",,Privacy by design training,,,,,

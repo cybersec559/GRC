@@ -1,0 +1,3 @@
+Risk ID,Asset/Process,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Treatment Decision (Treat/Transfer/Avoid/Accept),Related Objective(s),Residual Likelihood (1-5),Residual Impact (1-5),Residual Risk Score,Owner,Review Date,Status
+RISK-001,Example: Customer database,Unauthorized external access,Weak access review cadence,3,5,15,Treat,"APO12, DSS05",1,5,5,IT Security Manager,,Open
+RISK-002,Example: Vendor-hosted payment processing,Vendor service disruption,No documented failover with vendor,2,4,8,Treat,"APO10, APO12, DSS04",1,4,4,IT Security Manager,,Open

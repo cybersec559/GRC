@@ -1,0 +1,3 @@
+Record ID,Personnel/Role,Security-Relevant Responsibility,Required Competence,Education/Certification,Training Completed,Relevant Experience,Evidence Reference,Date Verified,Next Review Date,Reviewer
+COMP-001,Example: ISSO (Information System Security Officer),Owns control implementation and continuous monitoring for the system,"Risk Management Framework practitioner knowledge, control assessment methodology",CISSP / CAP,RMF practitioner training course,5+ years information security management,,,,
+COMP-002,Example: System Administrator,"Administers access control, logging, and configuration management for the system","Access control administration, log management, configuration baselining",,Security awareness + role-based training,,,,,

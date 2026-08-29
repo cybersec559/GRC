@@ -1,0 +1,3 @@
+Asset ID,Asset/Component Name,Asset Type,In Authorization Boundary (Y/N),Owner,Location/Hosting Environment,Confidentiality (Low/Mod/High),Integrity (Low/Mod/High),Availability (Low/Mod/High),Related Requirement(s),Last Review Date
+AST-001,Example: Federal data processing application server,Compute,Y,System Owner,Authorized cloud region - Production,High,High,Moderate,"CAT-2, BND-1",
+AST-002,Example: Authentication/identity provider service,Software Service,Y,ISSO (Information System Security Officer),Authorized cloud region - Production,High,High,High,"CAT-2, DOC-1",

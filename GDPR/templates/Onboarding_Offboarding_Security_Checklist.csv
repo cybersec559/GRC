@@ -1,0 +1,6 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Article(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Privacy and data handling training assigned and scheduled,Art. 5(2),HR,,,
+ON-002,Onboarding,Confidentiality/NDA agreement covering personal data handling signed,Art. 28,HR,,,
+ON-003,Onboarding,Access to personal data provisioned per least-privilege and role,"Art. 5(1)(f), Art. 32",IT Operations,,,
+OFF-001,Offboarding,All access to personal data revoked/disabled,"Art. 5(1)(f), Art. 32",IT Operations,,,
+OFF-002,Offboarding,Reminder of ongoing confidentiality obligations issued,Art. 28,HR,,,

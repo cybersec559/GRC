@@ -1,0 +1,3 @@
+Media ID,Media Type,Classification,Contains ePHI (Y/N),Owner/Custodian,Location,Contents Description,Encryption Status (Y/N + Method),Date Acquired,Last Review Date,Disposal Date,Disposal Method,Related Standard,Status (Active/Retired/Disposed)
+MED-001,Example: Encrypted external HDD,Confidential - ePHI,Y,IT Operations,Secured storage cabinet - Server Room,Quarterly ePHI backup archive,Y - AES-256,,,,,164.310(d)(1)(iv),Active
+MED-002,Example: Backup tape set,Confidential - ePHI,Y,IT Operations,Offsite storage facility,Monthly full backup of clinical records system,Y - AES-256,,,,,164.310(d)(1)(iv),Active

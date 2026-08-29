@@ -1,0 +1,19 @@
+Activity,Related Control(s),Responsible (R),Accountable (A),Consulted (C),Informed (I)
+Enterprise & software asset inventory maintenance,"1, 2",IT Operations,IT Security Manager,Department Managers,CISO
+Implementation Group determination & review,All,IT Security Manager,CISO,Executive Leadership,All Personnel
+Data classification & handling,3,Data Owner,IT Security Manager,Legal/Compliance,CISO
+Secure configuration baseline management,4,IT Operations,IT Security Manager,,CISO
+"Account provisioning, review & de-provisioning","5, 6",IT Operations,IT Security Manager,Department Managers,CISO
+Vulnerability scanning & remediation,7,IT Security Manager,CISO,IT Operations,Executive Leadership
+Audit log collection & review,8,IT Operations,IT Security Manager,,CISO
+Email/browser protection configuration,9,IT Operations,IT Security Manager,,CISO
+Anti-malware deployment & management,10,IT Operations,IT Security Manager,,CISO
+Backup execution & recovery testing,11,IT Operations,IT Security Manager,,CISO
+Network architecture & infrastructure management,12,IT Operations,IT Security Manager,Network Engineering,CISO
+Security monitoring & alerting,13,IT Security Manager,CISO,IT Operations,Executive Leadership
+Security awareness training delivery,14,HR,IT Security Manager,Department Managers,All Personnel
+Service provider assessment & monitoring,15,IT Security Manager,CISO,Legal/Compliance,Procurement
+Secure development lifecycle governance,16,Engineering Lead,CISO,IT Security Manager,Executive Leadership
+Incident response execution,17,IT Security Manager,CISO,Legal/Compliance,Executive Leadership
+Penetration testing program management,18,IT Security Manager,CISO,Auditor (External),Executive Leadership
+Implementation Group review meeting,All,CISO,Executive Leadership,IT Security Manager,All Personnel

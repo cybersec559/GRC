@@ -1,0 +1,10 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Control(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Position risk designation assigned prior to start date,PS-2,HR,,,
+ON-002,Onboarding,Personnel screening completed prior to system access,PS-3,HR,,,
+ON-003,Onboarding,Access agreement signed,PS-6,HR,,,
+ON-004,Onboarding,Security literacy and awareness training assigned and scheduled,AT-2,Training Coordinator,,,
+ON-005,Onboarding,Access provisioned per least-privilege / role,"AC-2, AC-6",System Administrator,,,
+OFF-001,Offboarding,All system access revoked/disabled,"AC-2, PS-4",System Administrator,,,
+OFF-002,Offboarding,"Organizational assets returned (laptop, badge, tokens)",PS-4,System Administrator,,,
+OFF-003,Offboarding,Exit interview and reminder of ongoing confidentiality obligations issued,PS-4,HR,,,
+OFF-004,Offboarding,Operational need for access reviewed on transfer/reassignment,PS-5,HR,,,

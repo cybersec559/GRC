@@ -1,0 +1,4 @@
+BA ID,BA Name,Service Provided,PHI Access Level (None/Limited Data Set/Full PHI Access),BAA Executed (Y/N),BAA Execution Date,BAA Review/Renewal Date,Related Standard,Owner
+BA-001,Example: Cloud Hosting Provider,Infrastructure hosting for clinical records system,Full PHI Access,Y,,,"164.308(b)(1), 164.314(a)(1)(i)",Legal/Compliance
+BA-002,Example: Medical Billing Service,Claims processing and billing support,Full PHI Access,Y,,,"164.308(b)(1), 164.314(a)(1)(i)",HIPAA Privacy Officer
+BA-003,Example: IT Support Vendor (Remote Helpdesk),Remote technical support with incidental access,Limited Data Set,Y,,,"164.308(b)(1), 164.314(a)(1)(i)",IT Operations

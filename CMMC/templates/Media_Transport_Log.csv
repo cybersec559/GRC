@@ -1,0 +1,2 @@
+Transport ID,Media ID,Date of Transport,Sender,Recipient,Transport Method (Courier/Hand-carry/Mail/Encrypted Electronic Transfer),Authorization Reference,Protection Applied (Y/N + Method),Tracking/Reference Number,Receipt Confirmed (Y/N),Date Received,Notes
+TRN-001,MED-001,Example: 2026-01-10,IT Operations,Offsite Storage Facility,Courier,Change Request #CR-1023,Y - Tamper-evident sealed container,TRACK123456,Y,2026-01-10,Routine offsite backup rotation containing CUI

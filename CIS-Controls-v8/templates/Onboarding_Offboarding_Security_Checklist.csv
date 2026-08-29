@@ -1,0 +1,9 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Safeguards,Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Account created per documented access granting process,"5.1, 6.1",IT Operations,,,
+ON-002,Onboarding,MFA enrolled for all applicable accounts,"6.3, 6.4, 6.5",IT Operations,,,
+ON-003,Onboarding,Security awareness training assigned and scheduled,14.1,HR,,,
+ON-004,Onboarding,Access provisioned per least-privilege / role,"6.1, 6.8",IT Operations,,,
+OFF-001,Offboarding,All system access revoked/disabled,"5.3, 6.2",IT Operations,,,
+OFF-002,Offboarding,"Company assets returned (laptop, badge, tokens)",1.2,IT Operations,,,
+OFF-003,Offboarding,Dormant account disable timeline confirmed,5.3,IT Security Manager,,,
+OFF-004,Offboarding,"Remote wipe issued for enterprise-owned portable devices, if applicable",4.11,IT Operations,,,

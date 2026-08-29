@@ -1,0 +1,2 @@
+POAM ID,Control ID,Weakness Description,Risk Level (Low/Moderate/High),Milestones with Completion Dates,Resources Required,Scheduled Completion Date,Status (Open/Ongoing/Completed/Risk Accepted),Owner
+POAM-001,RA-5,Example: Vulnerability scanning is not performed on a defined recurring schedule for all system components,Moderate,"Milestone 1: Select scanning tool (2026-03-01); Milestone 2: Configure scan schedule (2026-03-15); Milestone 3: Complete first full scan cycle (2026-04-01)",Vulnerability scanning tool license; 0.25 FTE engineer time,2026-04-01,Ongoing,ISSO

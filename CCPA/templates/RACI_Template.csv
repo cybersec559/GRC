@@ -1,0 +1,14 @@
+Activity,Related Ref(s),Responsible (R),Accountable (A),Consulted (C),Informed (I)
+Applicability threshold assessment,Civ. Code 1798.140(ac),Privacy Program Manager,General Counsel,"Finance, Data Governance",Executive Leadership
+Personal information inventory / data mapping maintenance,"Civ. Code 1798.100, 1798.110",Data Governance Lead,Privacy Program Manager,"IT Operations, Business Unit Owners",Privacy Program Manager
+Privacy policy and notice at collection updates,"Civ. Code 1798.100(b), 1798.130",Privacy Program Manager,General Counsel,"Marketing, Legal",Executive Leadership
+Opt-out mechanism / opt-out preference signal implementation,"Civ. Code 1798.120, 1798.135",IT/Engineering,Privacy Program Manager,"Legal, Marketing",Executive Leadership
+"Consumer request intake, verification, and response",Civ. Code 1798.130,Privacy Operations Team,Privacy Program Manager,"Legal, IT Security",General Counsel
+Service provider / contractor / third party contract review,"Civ. Code 1798.100(d), 1798.140(ai)(2)",Legal / Procurement,General Counsel,Privacy Program Manager,Vendor Owners
+Sensitive personal information use-limitation controls,Civ. Code 1798.121,IT/Engineering,Privacy Program Manager,Legal,Executive Leadership
+Annual cybersecurity audit (high-risk processing),Civ. Code 1798.185(a)(15)(A),IT Security Manager,Privacy Program Manager,Independent Auditor,"Executive Leadership, CPPA (if required)"
+Risk assessment for high-risk processing,Civ. Code 1798.185(a)(15)(B),Privacy Program Manager,General Counsel,"Data Governance, IT Security","Executive Leadership, CPPA (if required)"
+Data breach response and notification,Civ. Code 1798.150,IT Security Manager,General Counsel,"Privacy Program Manager, Executive Leadership","Affected Consumers, Regulators"
+Personnel privacy/security awareness training,Civ. Code 1798.100(c),HR,Privacy Program Manager,IT Security,All Personnel
+Compliance review meeting,All,Privacy Program Manager,Executive Leadership,"Legal, IT Security",All Personnel
+Internal audit / readiness review,All,Internal Audit,Privacy Program Manager,"IT Security, Legal",Executive Leadership

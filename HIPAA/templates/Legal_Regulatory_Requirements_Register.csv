@@ -1,0 +1,4 @@
+Requirement ID,Law/Regulation/Contract,Jurisdiction/Scope,Applicable Requirement Summary,Compliance Status (Compliant/Partial/Non-Compliant/Under Review),Related Standard,Owner,Last Review Date,Next Review Date
+LEG-001,Example: HIPAA Security Rule,US - ePHI,"Administrative, physical, and technical safeguards for ePHI",Compliant,"164.308, 164.310, 164.312",HIPAA Security Officer,,
+LEG-002,Example: HIPAA Breach Notification Rule,US - PHI breaches,"Notify individuals, HHS, and media of breaches of unsecured PHI within required timeframes",Compliant,164.400-414,HIPAA Privacy Officer,,
+LEG-003,Example: State breach notification law,State-specific,Additional/faster breach notification obligations that may apply alongside HIPAA,Under Review,164.400-414,Legal/Compliance,,

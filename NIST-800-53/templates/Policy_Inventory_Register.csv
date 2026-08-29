@@ -1,0 +1,4 @@
+Policy ID,Policy Name,Owner,Version,Approval Date,Approved By,Next Review Date,Related Control(s),Status (Draft/Approved/Under Review/Retired)
+POL-001,Example: Access Control Policy,ISSO,1.0,,Authorizing Official,,AC-1,Approved
+POL-002,Example: Incident Response Policy,ISSO,1.0,,Authorizing Official,,IR-1,Approved
+POL-003,Example: Configuration Management Policy,ISSO,1.0,,Authorizing Official,,CM-1,Approved

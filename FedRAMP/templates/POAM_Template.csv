@@ -1,0 +1,3 @@
+POAM ID,Related Requirement/Control,Weakness Description,Risk Level,Milestones with Completion Dates,Resources Required,Scheduled Completion Date,Status,Owner
+POAM-001,CONMON-1,Monthly vulnerability scan identified an unpatched critical CVE on a production web application server,High,Example: 1) Patch identified in vendor advisory - 2026-02-01; 2) Patch validated in staging - 2026-02-05; 3) Patch deployed to production - 2026-02-10,Cloud Operations Team time; scheduled maintenance window,2026-02-10,Open,Cloud Operations Team
+POAM-002,PS-1,Background screening not completed prior to granting access for one contractor account,Moderate,Example: 1) Screening initiated - 2026-01-20; 2) Screening completed - 2026-02-15,HR coordination with screening vendor,2026-02-15,Open,HR

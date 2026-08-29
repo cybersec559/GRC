@@ -1,0 +1,2 @@
+Risk ID,Asset/Processing Activity,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Treatment Decision (Treat/Transfer/Avoid/Accept),Related Article(s),Residual Likelihood (1-5),Residual Impact (1-5),Residual Risk Score,Owner,Review Date,Status
+RISK-001,Example: EU customer database,Unauthorized external access,Weak access review cadence,3,5,15,Treat,"Art. 5(1)(f), Art. 32",1,5,5,Example: IT Security Manager,,Open

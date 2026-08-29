@@ -1,0 +1,6 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Requirement(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Background screening completed prior to start date (federal data access roles),PS-1,HR,,,
+ON-002,Onboarding,Rules of Behavior signed prior to system access,DOC-8,ISSO,,,
+ON-003,Onboarding,Security awareness training assigned and scheduled,PS-1,HR,,,
+OFF-001,Offboarding,All system access revoked/disabled immediately,PS-1,Cloud Operations Team,,,
+OFF-002,Offboarding,"Company assets returned (laptop, badge, tokens)",PS-1,IT Operations,,,

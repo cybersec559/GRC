@@ -1,0 +1,119 @@
+Practice ID,Domain,Level (1/2/3),Title,Description
+AC.L2-3.1.1,Access Control,"1, 2",Authorized access control,"Limit system access to authorized users, processes acting on behalf of authorized users, and devices (including other systems)."
+AC.L2-3.1.2,Access Control,"1, 2",Transaction and function control,Limit system access to the types of transactions and functions that authorized users are permitted to execute.
+AC.L2-3.1.3,Access Control,2,Control CUI flow,Control the flow of CUI in accordance with approved authorizations.
+AC.L2-3.1.4,Access Control,2,Separation of duties,Separate the duties of individuals to reduce the risk of malevolent activity without collusion.
+AC.L2-3.1.5,Access Control,2,Least privilege,"Employ the principle of least privilege, including for specific security functions and privileged accounts."
+AC.L2-3.1.6,Access Control,2,Non-privileged account use,Use non-privileged accounts or roles when accessing nonsecurity functions.
+AC.L2-3.1.7,Access Control,2,Privileged function restriction,Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.
+AC.L2-3.1.8,Access Control,2,Unsuccessful logon attempts,Limit unsuccessful logon attempts.
+AC.L2-3.1.9,Access Control,2,Privacy and security notices,Provide privacy and security notices consistent with applicable CUI rules.
+AC.L2-3.1.10,Access Control,2,Session lock,Use session lock with pattern-hiding displays to prevent access to and viewing of data after a period of inactivity.
+AC.L2-3.1.11,Access Control,2,Session termination,Terminate (automatically) a user session after a defined condition.
+AC.L2-3.1.12,Access Control,2,Remote access monitoring,Monitor and control remote access sessions.
+AC.L2-3.1.13,Access Control,2,Remote access confidentiality,Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.
+AC.L2-3.1.14,Access Control,2,Route remote access,Route remote access via managed access control points.
+AC.L2-3.1.15,Access Control,2,Authorize remote privileged commands,Authorize remote execution of privileged commands and remote access to security-relevant information.
+AC.L2-3.1.16,Access Control,2,Wireless access authorization,Authorize wireless access prior to allowing such connections.
+AC.L2-3.1.17,Access Control,2,Wireless access protection,Protect wireless access using authentication and encryption.
+AC.L2-3.1.18,Access Control,2,Mobile device connection control,Control connection of mobile devices.
+AC.L2-3.1.19,Access Control,2,Encrypt CUI on mobile devices,Encrypt CUI on mobile devices and mobile computing platforms.
+AC.L2-3.1.20,Access Control,"1, 2",External system connections,Verify and control/limit connections to and use of external systems.
+AC.L2-3.1.21,Access Control,2,Portable storage on external systems,Limit use of portable storage devices on external systems.
+AC.L2-3.1.22,Access Control,"1, 2",Publicly accessible content control,Control CUI posted or processed on publicly accessible systems.
+AT.L2-3.2.1,Awareness and Training,2,Security awareness,"Ensure that managers, systems administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems."
+AT.L2-3.2.2,Awareness and Training,2,Role-based training,Ensure that personnel are trained to carry out their assigned information security-related duties and responsibilities.
+AT.L2-3.2.3,Awareness and Training,2,Insider threat awareness,Provide security awareness training on recognizing and reporting potential indicators of insider threat.
+AU.L2-3.3.1,Audit and Accountability,2,Audit log creation and retention,"Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity."
+AU.L2-3.3.2,Audit and Accountability,2,User accountability,Ensure that the actions of individual system users can be uniquely traced to those users so they can be held accountable for their actions.
+AU.L2-3.3.3,Audit and Accountability,2,Review and update logged events,Review and update logged events.
+AU.L2-3.3.4,Audit and Accountability,2,Audit logging failure alerts,Alert in the event of an audit logging process failure.
+AU.L2-3.3.5,Audit and Accountability,2,Audit correlation,"Correlate audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity."
+AU.L2-3.3.6,Audit and Accountability,2,Audit reduction and reporting,Provide audit record reduction and report generation to support on-demand analysis and reporting.
+AU.L2-3.3.7,Audit and Accountability,2,Time stamp synchronization,Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.
+AU.L2-3.3.8,Audit and Accountability,2,Protect audit information,"Protect audit information and audit logging tools from unauthorized access, modification, and deletion."
+AU.L2-3.3.9,Audit and Accountability,2,Limit audit management privileges,Limit management of audit logging functionality to a subset of privileged users.
+CM.L2-3.4.1,Configuration Management,2,Baseline configurations and inventories,"Establish and maintain baseline configurations and inventories of organizational systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles."
+CM.L2-3.4.2,Configuration Management,2,Security configuration settings,Establish and enforce security configuration settings for information technology products employed in organizational systems.
+CM.L2-3.4.3,Configuration Management,2,Track and approve changes,"Track, review, approve or disapprove, and log changes to organizational systems."
+CM.L2-3.4.4,Configuration Management,2,Security impact analysis,Analyze the security impact of changes prior to implementation.
+CM.L2-3.4.5,Configuration Management,2,Access restrictions for change,"Define, document, approve, and enforce physical and logical access restrictions associated with changes to organizational systems."
+CM.L2-3.4.6,Configuration Management,2,Least functionality,Employ the principle of least functionality by configuring organizational systems to provide only essential capabilities.
+CM.L2-3.4.7,Configuration Management,2,Restrict nonessential functionality,"Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services."
+CM.L2-3.4.8,Configuration Management,2,Software execution policy,"Apply a deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or a deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software."
+CM.L2-3.4.9,Configuration Management,2,User-installed software control,Control and monitor user-installed software.
+IA.L2-3.5.1,Identification and Authentication,"1, 2",System identification,"Identify system users, processes acting on behalf of users, and devices."
+IA.L2-3.5.2,Identification and Authentication,"1, 2",Authentication,"Authenticate (or verify) the identities of users, processes, or devices, as a prerequisite to allowing access to organizational systems."
+IA.L2-3.5.3,Identification and Authentication,2,Multifactor authentication,Use multifactor authentication for local and network access to privileged accounts and for network access to non-privileged accounts.
+IA.L2-3.5.4,Identification and Authentication,2,Replay-resistant authentication,Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.
+IA.L2-3.5.5,Identification and Authentication,2,Identifier reuse prevention,Prevent reuse of identifiers for a defined period.
+IA.L2-3.5.6,Identification and Authentication,2,Disable inactive identifiers,Disable identifiers after a defined period of inactivity.
+IA.L2-3.5.7,Identification and Authentication,2,Password complexity,Enforce a minimum password complexity and change of characters when new passwords are created.
+IA.L2-3.5.8,Identification and Authentication,2,Password reuse prohibition,Prohibit password reuse for a specified number of generations.
+IA.L2-3.5.9,Identification and Authentication,2,Temporary passwords,Allow temporary password use for system logons with an immediate change to a permanent password.
+IA.L2-3.5.10,Identification and Authentication,2,Cryptographically-protected passwords,Store and transmit only cryptographically-protected passwords.
+IA.L2-3.5.11,Identification and Authentication,2,Obscure authentication feedback,Obscure feedback of authentication information.
+IR.L2-3.6.1,Incident Response,2,Incident-handling capability,"Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery, and user response activities."
+IR.L2-3.6.2,Incident Response,2,Incident tracking and reporting,"Track, document, and report incidents to appropriate officials and/or authorities both internal and external to the organization."
+IR.L2-3.6.3,Incident Response,2,Test incident response,Test the organizational incident response capability.
+MA.L2-3.7.1,Maintenance,2,Perform system maintenance,Perform maintenance on organizational systems.
+MA.L2-3.7.2,Maintenance,2,Control maintenance tools,"Provide controls on the tools, techniques, mechanisms, and personnel used to conduct system maintenance."
+MA.L2-3.7.3,Maintenance,2,Sanitize equipment for off-site maintenance,Ensure equipment removed for off-site maintenance is sanitized of any CUI.
+MA.L2-3.7.4,Maintenance,2,Check maintenance media,Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.
+MA.L2-3.7.5,Maintenance,2,Nonlocal maintenance authentication,Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.
+MA.L2-3.7.6,Maintenance,2,Supervise unauthorized maintenance personnel,Supervise the maintenance activities of maintenance personnel without required access authorization.
+MP.L2-3.8.1,Media Protection,2,Protect system media,"Protect (i.e., physically control and securely store) system media containing CUI, both paper and digital."
+MP.L2-3.8.2,Media Protection,2,Limit media access,Limit access to CUI on system media to authorized users.
+MP.L2-3.8.3,Media Protection,"1, 2",Sanitize or destroy media,Sanitize or destroy system media containing CUI before disposal or release for reuse.
+MP.L2-3.8.4,Media Protection,2,Mark CUI media,Mark media with necessary CUI markings and distribution limitations.
+MP.L2-3.8.5,Media Protection,2,Media transport accountability,Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.
+MP.L2-3.8.6,Media Protection,2,Media transport confidentiality,Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.
+MP.L2-3.8.7,Media Protection,2,Removable media control,Control the use of removable media on system components.
+MP.L2-3.8.8,Media Protection,2,Prohibit unowned portable storage,Prohibit the use of portable storage devices when such devices have no identifiable owner.
+MP.L2-3.8.9,Media Protection,2,Protect backup confidentiality,Protect the confidentiality of backup CUI at storage locations.
+PS.L2-3.9.1,Personnel Security,2,Personnel screening,Screen individuals prior to authorizing access to organizational systems containing CUI.
+PS.L2-3.9.2,Personnel Security,2,Personnel actions protection,Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.
+PE.L2-3.10.1,Physical Protection,"1, 2",Limit physical access,"Limit physical access to organizational systems, equipment, and the respective operating environments to authorized individuals."
+PE.L2-3.10.2,Physical Protection,2,Protect physical facility,Protect and monitor the physical facility and support infrastructure for organizational systems.
+PE.L2-3.10.3,Physical Protection,"1, 2",Escort visitors,Escort visitors and monitor visitor activity.
+PE.L2-3.10.4,Physical Protection,"1, 2",Physical access logs,Maintain audit logs of physical access.
+PE.L2-3.10.5,Physical Protection,"1, 2",Physical access devices,Control and manage physical access devices.
+PE.L2-3.10.6,Physical Protection,2,Alternate work site safeguards,Enforce safeguarding measures for CUI at alternate work sites.
+RA.L2-3.11.1,Risk Assessment,2,Periodic risk assessment,"Periodically assess the risk to organizational operations, organizational assets, and individuals resulting from the operation of organizational systems and the associated processing, storage, or transmission of CUI."
+RA.L2-3.11.2,Risk Assessment,2,Vulnerability scanning,Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.
+RA.L2-3.11.3,Risk Assessment,2,Vulnerability remediation,Remediate vulnerabilities in accordance with risk assessments.
+CA.L2-3.12.1,Security Assessment,2,Periodic control assessment,Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.
+CA.L2-3.12.2,Security Assessment,2,Plans of action,Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.
+CA.L2-3.12.3,Security Assessment,2,Continuous control monitoring,Monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls.
+CA.L2-3.12.4,Security Assessment,2,System security plan,"Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems."
+SC.L2-3.13.1,System and Communications Protection,"1, 2",Boundary protection,"Monitor, control, and protect communications (i.e., information transmitted or received by organizational systems) at the external boundaries and key internal boundaries of organizational systems."
+SC.L2-3.13.2,System and Communications Protection,2,Secure engineering principles,"Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational systems."
+SC.L2-3.13.3,System and Communications Protection,2,Separate user and system functionality,Separate user functionality from system management functionality.
+SC.L2-3.13.4,System and Communications Protection,2,Prevent unauthorized information transfer,Prevent unauthorized and unintended information transfer via shared system resources.
+SC.L2-3.13.5,System and Communications Protection,"1, 2",Publicly accessible subnetworks,Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
+SC.L2-3.13.6,System and Communications Protection,2,Deny-by-default network traffic,"Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception)."
+SC.L2-3.13.7,System and Communications Protection,2,Prevent split tunneling,"Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling)."
+SC.L2-3.13.8,System and Communications Protection,2,Transmission confidentiality,Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.
+SC.L2-3.13.9,System and Communications Protection,2,Terminate network connections,Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.
+SC.L2-3.13.10,System and Communications Protection,2,Cryptographic key management,Establish and manage cryptographic keys for cryptography employed in organizational systems.
+SC.L2-3.13.11,System and Communications Protection,2,FIPS-validated cryptography,Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.
+SC.L2-3.13.12,System and Communications Protection,2,Collaborative computing devices,Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.
+SC.L2-3.13.13,System and Communications Protection,2,Mobile code control,Control and monitor the use of mobile code.
+SC.L2-3.13.14,System and Communications Protection,2,VoIP control,Control and monitor the use of Voice over Internet Protocol (VoIP) technologies.
+SC.L2-3.13.15,System and Communications Protection,2,Communications session authenticity,Protect the authenticity of communications sessions.
+SC.L2-3.13.16,System and Communications Protection,2,CUI at rest,Protect the confidentiality of CUI at rest.
+SI.L2-3.14.1,System and Information Integrity,"1, 2",Identify and correct system flaws,"Identify, report, and correct system flaws in a timely manner."
+SI.L2-3.14.2,System and Information Integrity,"1, 2",Malicious code protection,Provide protection from malicious code at designated locations within organizational systems.
+SI.L2-3.14.3,System and Information Integrity,2,Monitor security alerts,Monitor system security alerts and advisories and take action in response.
+SI.L2-3.14.4,System and Information Integrity,"1, 2",Update malicious code protection,Update malicious code protection mechanisms when new releases are available.
+SI.L2-3.14.5,System and Information Integrity,"1, 2",Periodic and real-time scanning,"Perform periodic scans of organizational systems and real-time scans of files from external sources as files are downloaded, opened, or executed."
+SI.L2-3.14.6,System and Information Integrity,2,Monitor communications traffic,"Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks."
+SI.L2-3.14.7,System and Information Integrity,2,Identify unauthorized system use,Identify unauthorized use of organizational systems.
+AC.L3-3.1.1e,Access Control,3,Dual authorization (illustrative),"ILLUSTRATIVE NIST SP 800-172 enhanced requirement: employ dual authorization to execute critical or sensitive organizational and system operations, reducing risk of unilateral insider action."
+AU.L3-3.3.1e,Audit and Accountability,3,Enhanced audit capability (illustrative),"ILLUSTRATIVE NIST SP 800-172 enhanced requirement: employ an enhanced, automated audit logging capability to support near-real-time analysis and detection of advanced persistent threat (APT) activity."
+CM.L3-3.4.1e,Configuration Management,3,Authoritative configuration source (illustrative),"ILLUSTRATIVE NIST SP 800-172 enhanced requirement: establish and maintain an authoritative source and repository for configuration baselines and asset inventories, enforced through automated mechanisms."
+IA.L3-3.5.1e,Identification and Authentication,3,Phishing-resistant MFA (illustrative),"ILLUSTRATIVE NIST SP 800-172 enhanced requirement: employ a risk-based, phishing-resistant multifactor authentication mechanism for network access to privileged and non-privileged accounts."
+IR.L3-3.6.1e,Incident Response,3,Dedicated incident response team (illustrative),ILLUSTRATIVE NIST SP 800-172 enhanced requirement: establish and maintain a dedicated cyber incident response capability able to be deployed within a specified time period of detection.
+RA.L3-3.11.1e,Risk Assessment,3,Cyber threat hunting (illustrative),"ILLUSTRATIVE NIST SP 800-172 enhanced requirement: conduct cyber threat hunting activities on organizational systems, employing threat intelligence to search for indicators of compromise not detected by existing controls."
+SC.L3-3.13.1e,System and Communications Protection,3,Isolated administration (illustrative),"ILLUSTRATIVE NIST SP 800-172 enhanced requirement: employ physically or logically separate/isolated administration of organizational systems, using virtualization and network segmentation techniques, as an advanced protection against APT actors."
+SI.L3-3.14.1e,System and Information Integrity,3,Verified security-critical functions (illustrative),ILLUSTRATIVE NIST SP 800-172 enhanced requirement: verify the correctness of security-critical or essential software functions through formal or other specialized verification and testing methods.

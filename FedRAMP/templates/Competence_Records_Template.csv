@@ -1,0 +1,3 @@
+Record ID,Personnel/Role,Security-Relevant Responsibility,Required Competence,Education/Certification,Training Completed,Relevant Experience,Evidence Reference,Date Verified,Next Review Date,Reviewer
+COMP-001,Example: ISSO (Information System Security Officer),Owns day-to-day FedRAMP security control implementation and ConMon deliverables,"FedRAMP/NIST SP 800-53 practitioner knowledge, ConMon reporting experience",CAP / CISSP,FedRAMP ConMon training,3+ years federal system security,,,,
+COMP-002,Example: Cloud Service Offering (CSO) Program Manager,Owns overall FedRAMP authorization program and agency/JAB relationship,"Authorization package management, agency sponsorship coordination",,FedRAMP overview training,,,,,
