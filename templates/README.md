@@ -13,6 +13,9 @@ contain any organization-specific data — copy them into your own tracker and f
 | `Evidence_Submission_Log_Template.csv` | Track evidence submitted per control — what, when, by whom, review status, renewal date. | Clause 7.5 (Documented Information) |
 | `Competence_Records_Template.csv` | Documented evidence of personnel competence (education, certification, training, experience) for security-relevant roles. | Clause 7.2 (Competence) |
 | `RACI_Template.csv` | Responsible/Accountable/Consulted/Informed matrix across recurring ISMS activities (risk assessment, incident response, audits, etc.). | Clause 5 (Leadership), supports role clarity across all controls |
+| `Incident_Management_Tracker.csv` | Log of security incidents from detection through containment, root cause, corrective action, and closure. | A.5.24-A.5.28 |
+| `Media_Inventory_Log.csv` | Inventory of physical/removable storage media, classification, encryption status, and lifecycle status. | A.7.10 |
+| `Media_Transport_Log.csv` | Chain-of-custody log for media moved off-site (courier, hand-carry, electronic transfer), with protection and receipt confirmation. | A.7.10 |
 | `Management_Review_Agenda_Template.md` | Standing agenda for leadership's periodic ISMS review. | Clause 9.3 |
 
 ## Suggested workflow
