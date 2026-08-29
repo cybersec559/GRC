@@ -1,0 +1,3 @@
+Objective ID,Objective Description,Metric/KPI,Target,Actual,Measurement Frequency,Related Requirement(s),Owner,Status (On Track/At Risk/Not Met),Review Date
+OBJ-001,Example: Maintain passing ASV scan status,Consecutive passing quarterly ASV scans,4 per year,,Quarterly,11.3,IT Security Manager,On Track,
+OBJ-002,Example: Improve security awareness training completion,Percentage of personnel completing annual training,100%,,Annually,12.6,HR,On Track,

@@ -1,0 +1,8 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Requirement(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Background screening completed prior to start date (CDE-access roles),12.7,HR,,,
+ON-002,Onboarding,Employment agreement includes security responsibilities,12.1,HR,,,
+ON-003,Onboarding,Security awareness training assigned and scheduled,12.6,HR,,,
+ON-004,Onboarding,Access provisioned per least-privilege / need-to-know,"7.2, 8.2",IT Operations,,,
+OFF-001,Offboarding,All system access revoked/disabled immediately,"7.2, 8.2",IT Operations,,,
+OFF-002,Offboarding,Company assets returned (laptop, badge, tokens),9.3,IT Operations,,,
+OFF-003,Offboarding,Physical access credentials deactivated,9.3,IT Operations,,,

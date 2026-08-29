@@ -1,0 +1,64 @@
+Requirement ID,Goal,Title,Description
+1.1,Build and Maintain a Secure Network and Systems,NSC processes defined,Processes and mechanisms for installing and maintaining network security controls are defined and understood.
+1.2,Build and Maintain a Secure Network and Systems,NSCs configured and maintained,Network security controls (NSCs) are configured and maintained.
+1.3,Build and Maintain a Secure Network and Systems,CDE network access restricted,Network access to and from the cardholder data environment (CDE) is restricted.
+1.4,Build and Maintain a Secure Network and Systems,Trusted/untrusted network connections controlled,Network connections between trusted and untrusted networks are controlled.
+1.5,Build and Maintain a Secure Network and Systems,Dual-connected device risk mitigated,Risks to the CDE from computing devices able to connect to both untrusted networks and the CDE are mitigated.
+2.1,Build and Maintain a Secure Network and Systems,Secure configuration processes defined,Processes and mechanisms for applying secure configurations to all system components are defined and understood.
+2.2,Build and Maintain a Secure Network and Systems,System components securely configured,System components are configured and managed securely.
+2.3,Build and Maintain a Secure Network and Systems,Wireless environments secured,Wireless environments are configured and managed securely.
+3.1,Protect Account Data,Stored data protection processes defined,Processes and mechanisms for protecting stored account data are defined and understood.
+3.2,Protect Account Data,Storage minimized,Storage of account data is kept to a minimum.
+3.3,Protect Account Data,SAD not stored after authorization,Sensitive authentication data (SAD) is not stored after authorization.
+3.4,Protect Account Data,PAN display/copy restricted,Access to displays of full PAN and ability to copy PAN is restricted.
+3.5,Protect Account Data,PAN secured wherever stored,Primary account number (PAN) is secured wherever it is stored.
+3.6,Protect Account Data,Cryptographic keys secured,Cryptographic keys used to protect stored account data are secured.
+3.7,Protect Account Data,Key management processes defined,"Where cryptography is used to protect stored account data, key management processes are defined and implemented."
+4.1,Protect Account Data,Transmission protection processes defined,Processes and mechanisms for protecting cardholder data with strong cryptography during transmission are defined and understood.
+4.2,Protect Account Data,PAN protected during transmission,PAN is protected with strong cryptography during transmission over open public networks.
+5.1,Maintain a Vulnerability Management Program,Anti-malware processes defined,Processes and mechanisms for protecting systems and networks from malicious software are defined and understood.
+5.2,Maintain a Vulnerability Management Program,Malware prevented/detected,"Malicious software (malware) is prevented, or detected and addressed."
+5.3,Maintain a Vulnerability Management Program,Anti-malware mechanisms maintained,"Anti-malware mechanisms and processes are active, maintained, and monitored."
+5.4,Maintain a Vulnerability Management Program,Anti-phishing mechanisms,Anti-phishing mechanisms protect users against phishing attacks.
+6.1,Maintain a Vulnerability Management Program,Secure development processes defined,Processes and mechanisms for developing and maintaining secure systems and software are defined and understood.
+6.2,Maintain a Vulnerability Management Program,Bespoke/custom software developed securely,Bespoke and custom software are developed securely.
+6.3,Maintain a Vulnerability Management Program,Vulnerabilities identified and addressed,Security vulnerabilities are identified and addressed.
+6.4,Maintain a Vulnerability Management Program,Public-facing web apps protected,Public-facing web applications are protected against attacks.
+6.5,Maintain a Vulnerability Management Program,Changes managed securely,Changes to all system components are managed securely.
+7.1,Implement Strong Access Control Measures,Need-to-know access processes defined,Processes and mechanisms for restricting access to system components and cardholder data by business need to know are defined and understood.
+7.2,Implement Strong Access Control Measures,Access appropriately defined/assigned,Access to system components and data is appropriately defined and assigned.
+7.3,Implement Strong Access Control Measures,Access control system(s) used,Access to system components and data is managed via an access control system(s).
+8.1,Implement Strong Access Control Measures,Identification/authentication processes defined,Processes and mechanisms for identifying users and authenticating access to system components are defined and understood.
+8.2,Implement Strong Access Control Measures,User IDs/accounts strictly managed,User identification and related accounts for users and administrators are strictly managed.
+8.3,Implement Strong Access Control Measures,Strong authentication established,Strong authentication for users and administrators is established and managed.
+8.4,Implement Strong Access Control Measures,MFA implemented for CDE access,Multi-factor authentication (MFA) is implemented to secure access into the CDE.
+8.5,Implement Strong Access Control Measures,MFA configured to prevent misuse,Multi-factor authentication (MFA) systems are configured to prevent misuse.
+8.6,Implement Strong Access Control Measures,System/application accounts managed,Use of application and system accounts and associated authentication factors is strictly managed.
+9.1,Implement Strong Access Control Measures,Physical access processes defined,Processes and mechanisms for restricting physical access to cardholder data are defined and understood.
+9.2,Implement Strong Access Control Measures,Physical access controls manage entry,Physical access controls manage entry into facilities and systems containing cardholder data.
+9.3,Implement Strong Access Control Measures,Personnel/visitor physical access managed,Physical access for personnel and visitors is authorized and managed.
+9.4,Implement Strong Access Control Measures,Media securely handled,Media with cardholder data is securely stored accessed distributed and destroyed.
+9.5,Implement Strong Access Control Measures,POI devices protected,Point of interaction (POI) devices are protected from tampering and unauthorized substitution.
+10.1,Regularly Monitor and Test Networks,Logging processes defined,Processes and mechanisms for logging and monitoring all access to system components are defined and understood.
+10.2,Regularly Monitor and Test Networks,Audit logs implemented,Audit logs are implemented to support the detection of anomalies and suspicious activity.
+10.3,Regularly Monitor and Test Networks,Audit logs protected,Audit logs are protected from destruction and unauthorized modification.
+10.4,Regularly Monitor and Test Networks,Audit logs reviewed,Audit logs are reviewed to identify anomalies or suspicious activity.
+10.5,Regularly Monitor and Test Networks,Audit log history retained,Audit log history is retained and available for analysis.
+10.6,Regularly Monitor and Test Networks,Time synchronization,Time-synchronization mechanisms support consistent time settings across all systems.
+10.7,Regularly Monitor and Test Networks,Critical security control failures detected,Failures of critical security control systems are detected reported and responded to.
+11.1,Regularly Monitor and Test Networks,Security testing processes defined,Processes and mechanisms for testing security of systems and networks regularly are defined and understood.
+11.2,Regularly Monitor and Test Networks,Wireless access points monitored,Wireless access points are identified and monitored and unauthorized ones are addressed.
+11.3,Regularly Monitor and Test Networks,Vulnerabilities identified/addressed,External and internal vulnerabilities are regularly identified prioritized and addressed.
+11.4,Regularly Monitor and Test Networks,Penetration testing performed,External and internal penetration testing is regularly performed.
+11.5,Regularly Monitor and Test Networks,Intrusions/file changes detected,Network intrusions and unexpected file changes are detected and responded to.
+11.6,Regularly Monitor and Test Networks,Payment page changes detected,Unauthorized changes on payment pages are detected and responded to.
+12.1,Maintain an Information Security Policy,Information security policy current,A comprehensive information security policy that governs and provides direction for protection of the entity's information assets is known and current.
+12.2,Maintain an Information Security Policy,Acceptable use policies defined,Acceptable use policies for end-user technologies are defined and implemented.
+12.3,Maintain an Information Security Policy,CDE risks formally managed,Risks to the cardholder data environment are formally identified evaluated and managed.
+12.4,Maintain an Information Security Policy,PCI DSS compliance managed,PCI DSS compliance is managed.
+12.5,Maintain an Information Security Policy,PCI DSS scope documented/validated,PCI DSS scope is documented and validated.
+12.6,Maintain an Information Security Policy,Security awareness ongoing,Security awareness education is an ongoing activity.
+12.7,Maintain an Information Security Policy,Personnel screened,Personnel are screened to reduce risks from insider threats.
+12.8,Maintain an Information Security Policy,TPSP risk managed,Risk to information assets associated with third-party service provider (TPSP) relationships is managed.
+12.9,Maintain an Information Security Policy,TPSPs support customer compliance,Third-party service providers (TPSPs) support their customers' PCI DSS compliance.
+12.10,Maintain an Information Security Policy,Incidents responded to immediately,Suspected and confirmed security incidents that could impact the CDE are responded to immediately.

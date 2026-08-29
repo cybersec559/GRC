@@ -1,0 +1,3 @@
+Asset ID,Asset Name,Asset Type,In CDE (Y/N),Owner,Location/Custodian,Confidentiality (Low/Med/High),Integrity (Low/Med/High),Availability (Low/Med/High),Related Requirements,Last Review Date
+AST-001,Example: Payment processing database,Information,Y,IT Security Manager,Primary cloud region,High,High,High,"3.5, 12.5",
+AST-002,Example: Point-of-interaction terminal,Equipment,Y,IT Operations,Retail location,High,High,Medium,"9.4, 9.5",

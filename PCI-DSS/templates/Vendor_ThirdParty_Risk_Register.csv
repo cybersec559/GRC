@@ -1,0 +1,3 @@
+Vendor ID,Vendor Name,Service Provided,TPSP (Y/N),PCI DSS Attestation on File (Y/N),Data Access Level (None/Internal/Cardholder Data/Restricted),Risk Tier (Low/Medium/High),Last Security Review Date,Contract Review Date,Related Requirement(s),Owner,Next Review Date
+VEN-001,Example: Cloud Infrastructure Provider,Hosting/IaaS,Y,Y,Cardholder Data,High,,,"12.8, 12.9",IT Security Manager,
+VEN-002,Example: Payment Gateway Provider,Payment Processing,Y,Y,Cardholder Data,High,,,"12.8, 12.9",PCI Compliance Program Manager,

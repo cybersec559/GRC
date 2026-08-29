@@ -1,0 +1,16 @@
+Activity,Related Requirement(s),Responsible (R),Accountable (A),Consulted (C),Informed (I)
+PCI DSS scope validation,12.5,IT Security Manager,PCI Compliance Program Manager,Internal Audit,Executive Leadership
+Compliance matrix maintenance,All requirements,IT Security Manager,PCI Compliance Program Manager,QSA (if applicable),Executive Leadership
+Asset/CDE inventory maintenance,12.5,IT Operations,IT Security Manager,Department Managers,PCI Compliance Program Manager
+Access rights provisioning & review,"7.2, 7.3, 8.2",IT Operations,IT Security Manager,Department Managers,PCI Compliance Program Manager
+Quarterly ASV scans,11.3,IT Operations,IT Security Manager,ASV Vendor,PCI Compliance Program Manager
+Annual/semi-annual penetration testing,11.4,IT Security Manager,PCI Compliance Program Manager,Pentest Vendor,Executive Leadership
+Incident response execution,12.10,IT Security Manager,PCI Compliance Program Manager,Legal/Compliance,Executive Leadership
+Security awareness training delivery,12.6,HR,IT Security Manager,Department Managers,All Personnel
+Third-party service provider risk assessment,"12.8, 12.9",PCI Compliance Program Manager,IT Security Manager,Legal/Compliance,Procurement
+Internal readiness review / QSA support,All requirements,Internal Audit,PCI Compliance Program Manager,IT Security Manager,Executive Leadership
+Compliance review meeting,12.4,PCI Compliance Program Manager,Executive Leadership,IT Security Manager,All Personnel
+Change management approval,6.5,Change Advisory Board,IT Security Manager,IT Operations,PCI Compliance Program Manager
+Policy review & approval,12.1,IT Security Manager,PCI Compliance Program Manager,Legal/Compliance,All Personnel
+Evidence collection & submission,All requirements,Control Owner,IT Security Manager,,Internal Audit
+Personnel screening,12.7,HR,PCI Compliance Program Manager,,IT Security Manager
