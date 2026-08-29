@@ -1,0 +1,16 @@
+Activity,Related Control(s)/Clause,Responsible (R),Accountable (A),Consulted (C),Informed (I)
+Risk assessment & risk register maintenance,Clause 6.1,IT Security Manager,CISO,Department Managers,Executive Leadership
+Statement of Applicability maintenance,Clause 6.1.3,IT Security Manager,CISO,Internal Audit,Executive Leadership
+Asset inventory maintenance,A.5.9,IT Operations,IT Security Manager,Department Managers,CISO
+Access rights provisioning & review,"A.5.18, A.8.2",IT Operations,IT Security Manager,Department Managers,CISO
+Incident response execution,"A.5.24-A.5.28",IT Security Manager,CISO,Legal/Compliance,Executive Leadership
+Security awareness training delivery,A.6.3,HR,IT Security Manager,Department Managers,All Personnel
+Vendor/supplier security assessment,"A.5.19-A.5.22",IT Security Manager,CISO,Legal/Compliance,Procurement
+Internal audit execution,Clause 9.2,Internal Audit,CISO,IT Security Manager,Executive Leadership
+Management review,Clause 9.3,CISO,Executive Leadership,IT Security Manager,All Personnel
+Business continuity / DR testing,"A.5.29-A.5.30",IT Operations,CISO,Department Managers,Executive Leadership
+Vulnerability management & patching,A.8.8,IT Operations,IT Security Manager,,CISO
+Change management approval,A.8.32,Change Advisory Board,IT Security Manager,IT Operations,CISO
+Policy review & approval,A.5.1,IT Security Manager,CISO,Legal/Compliance,All Personnel
+Evidence collection & submission,Clause 7.5,Control Owner,IT Security Manager,,Internal Audit
+Competence & training records maintenance,Clause 7.2,HR,IT Security Manager,,CISO

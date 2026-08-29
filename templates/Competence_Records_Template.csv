@@ -1,0 +1,3 @@
+Record ID,Personnel/Role,Security-Relevant Responsibility,Required Competence,Education/Certification,Training Completed,Relevant Experience,Evidence Reference,Date Verified,Next Review Date,Reviewer
+COMP-001,Example: IT Security Manager,Owns ISMS risk assessment and control implementation,"Risk assessment methodology, ISO 27001 practitioner knowledge",CISSP / CISM,ISO 27001 Lead Implementer course,5+ years information security management,,,,
+COMP-002,Example: Systems Administrator,Administers access control and logging systems,"Access control administration, log management",,Security awareness + role-specific system training,,,,,

@@ -11,6 +11,8 @@ contain any organization-specific data — copy them into your own tracker and f
 | `Risk_Register_Template.csv` | Risk identification, scoring (inherent → residual), treatment decision, control linkage. | Clause 6.1 |
 | `Internal_Audit_Checklist_Template.csv` | Pre-populated with management clauses (4-10) + all 93 controls; track conformance findings per audit cycle. | Clause 9.2 |
 | `Evidence_Submission_Log_Template.csv` | Track evidence submitted per control — what, when, by whom, review status, renewal date. | Clause 7.5 (Documented Information) |
+| `Competence_Records_Template.csv` | Documented evidence of personnel competence (education, certification, training, experience) for security-relevant roles. | Clause 7.2 (Competence) |
+| `RACI_Template.csv` | Responsible/Accountable/Consulted/Informed matrix across recurring ISMS activities (risk assessment, incident response, audits, etc.). | Clause 5 (Leadership), supports role clarity across all controls |
 | `Management_Review_Agenda_Template.md` | Standing agenda for leadership's periodic ISMS review. | Clause 9.3 |
 
 ## Suggested workflow
