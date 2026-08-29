@@ -179,7 +179,7 @@ and its current implementation status. Auditors will ask for this first.
 
 ## 5. Cross-Mapping to Other Frameworks
 
-Useful when an org (like this one) runs SOC 2, PCI DSS, and NIST CSF in parallel — avoid rebuilding
+Useful when an organization runs SOC 2, PCI DSS, and NIST CSF in parallel — avoid rebuilding
 evidence collection per framework where controls genuinely overlap.
 
 | ISO 27001:2022 Annex A theme | NIST CSF 2.0 function | Overlaps heavily with |
