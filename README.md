@@ -8,14 +8,30 @@ any one organization — copy what's useful into your own tracker and adapt it.
 
 ## Contents
 
-- [`ISO-27001-2022-Framework.md`](ISO-27001-2022-Framework.md) — reference guide to the
-  ISO/IEC 27001:2022 management-system clauses, the 93-control Annex A structure, an
-  implementation roadmap, and a cross-mapping to NIST CSF / SOC 2 / PCI DSS.
-- [`controls.csv`](controls.csv) — the 93 ISO/IEC 27001:2022 Annex A controls as a flat reference
-  catalog (Control ID, Theme, Title, Description, Control Type).
-- [`templates/`](templates) — 19 fillable templates covering the full ISMS lifecycle: Statement of
-  Applicability, asset inventory, risk register, internal audit checklist, evidence log, CAPA
-  register, policy inventory, access reviews, vendor risk, security objectives,
-  onboarding/offboarding, BC/DR testing, legal & regulatory requirements, incident management,
-  media handling, competence records, RACI, and management review. See
-  [`templates/README.md`](templates/README.md) for the full list and a suggested workflow.
+This repo covers multiple compliance frameworks, each with the same structure: a framework
+reference doc, a flat `controls.csv` catalog, and a `templates/` folder of fillable artifacts
+adapted to that framework's own terminology.
+
+### ISO/IEC 27001:2022 (repo root)
+
+- [`ISO-27001-2022-Framework.md`](ISO-27001-2022-Framework.md) — management-system clauses, the
+  93-control Annex A structure, implementation roadmap, cross-mapping to SOC 2 / PCI DSS / NIST CSF.
+- [`controls.csv`](controls.csv) — 93 Annex A controls.
+- [`templates/`](templates) — 19 templates (Statement of Applicability, asset inventory, risk
+  register, CAPA register, and more). See [`templates/README.md`](templates/README.md).
+
+### SOC 2 (`SOC2/`)
+
+- [`SOC2/SOC2-Trust-Services-Criteria-Framework.md`](SOC2/SOC2-Trust-Services-Criteria-Framework.md)
+  — Type I/II reports, Common Criteria, optional Trust Service Categories, cross-mapping.
+- [`SOC2/controls.csv`](SOC2/controls.csv) — 43 Trust Services Criteria.
+- [`SOC2/templates/`](SOC2/templates) — 18 templates adapted to SOC 2 terms (TSC Controls Matrix,
+  Control Exception Register, Compliance Review).
+
+### PCI DSS v4.0 (`PCI-DSS/`)
+
+- [`PCI-DSS/PCI-DSS-4.0-Framework.md`](PCI-DSS/PCI-DSS-4.0-Framework.md) — 12 requirements/6 goals,
+  SAQ vs. ROC, compensating controls, cross-mapping.
+- [`PCI-DSS/controls.csv`](PCI-DSS/controls.csv) — 63 first-level sub-requirements.
+- [`PCI-DSS/templates/`](PCI-DSS/templates) — 19 templates including two PCI-specific artifacts:
+  a Compensating Controls Worksheet and a Quarterly ASV Scan & Penetration Test Log.
