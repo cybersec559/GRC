@@ -1,0 +1,3 @@
+Asset ID,Asset Name,Asset Type,Owner,Location/Custodian,Confidentiality (Low/Med/High),Integrity (Low/Med/High),Availability (Low/Med/High),Overall Classification,Related Criteria,Last Review Date
+AST-001,Example: Customer database,Information,IT Security Manager,Primary cloud region,High,High,High,Confidential,"C1.1, CC6.1",
+AST-002,Example: Employee laptop fleet,Equipment,IT Operations,Managed via MDM,Medium,Medium,Medium,Internal,"CC6.1, CC6.4",

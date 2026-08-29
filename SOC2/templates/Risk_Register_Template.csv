@@ -1,0 +1,2 @@
+Risk ID,Asset,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Inherent Risk Score,Treatment Decision (Treat/Transfer/Avoid/Accept),Related Criteria,Residual Likelihood (1-5),Residual Impact (1-5),Residual Risk Score,Owner,Review Date,Status
+RISK-001,Example: Customer database,Unauthorized external access,Weak access review cadence,3,5,15,Treat,"CC6.1, CC6.2, CC6.3",1,5,5,IT Security Manager,,Open

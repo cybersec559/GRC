@@ -1,0 +1,16 @@
+Activity,Related Criteria,Responsible (R),Accountable (A),Consulted (C),Informed (I)
+Readiness assessment & gap analysis,"CC3.1, CC3.2",IT Security Manager,CISO,Internal Audit,Executive Leadership
+TSC controls matrix maintenance,All in-scope criteria,IT Security Manager,CISO,Auditor (External),Executive Leadership
+Asset inventory maintenance,CC6.1,IT Operations,IT Security Manager,Department Managers,CISO
+Access rights provisioning & review,"CC6.2, CC6.3",IT Operations,IT Security Manager,Department Managers,CISO
+Incident response execution,"CC7.3, CC7.4, CC7.5",IT Security Manager,CISO,Legal/Compliance,Executive Leadership
+Security awareness training delivery,CC1.4,HR,IT Security Manager,Department Managers,All Personnel
+Vendor/supplier risk assessment,CC9.2,IT Security Manager,CISO,Legal/Compliance,Procurement
+Internal audit / readiness review,CC4.1,Internal Audit,CISO,IT Security Manager,Executive Leadership
+Compliance review meeting,CC4.2,CISO,Executive Leadership,IT Security Manager,All Personnel
+Business continuity / DR testing,"CC9.1, A1.3",IT Operations,CISO,Department Managers,Executive Leadership
+Vulnerability management & patching,CC7.1,IT Operations,IT Security Manager,,CISO
+Change management approval,CC8.1,Change Advisory Board,IT Security Manager,IT Operations,CISO
+Policy review & approval,CC5.3,IT Security Manager,CISO,Legal/Compliance,All Personnel
+Evidence collection for auditor sampling,All in-scope criteria,Control Owner,IT Security Manager,,Internal Audit
+Competence & training records maintenance,CC1.4,HR,IT Security Manager,,CISO

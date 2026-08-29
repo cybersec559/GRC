@@ -1,0 +1,44 @@
+Criteria ID,Category,Title,Description
+CC1.1,Common Criteria - Control Environment,Commitment to integrity and ethical values,The entity demonstrates a commitment to integrity and ethical values.
+CC1.2,Common Criteria - Control Environment,Board independence and oversight,The board of directors demonstrates independence from management and exercises oversight.
+CC1.3,Common Criteria - Control Environment,Structure and reporting lines,Management establishes structures reporting lines and appropriate authorities/responsibilities.
+CC1.4,Common Criteria - Control Environment,Commitment to competence,The entity demonstrates a commitment to attract develop and retain competent individuals.
+CC1.5,Common Criteria - Control Environment,Accountability,The entity holds individuals accountable for their internal control responsibilities.
+CC2.1,Common Criteria - Communication and Information,Relevant quality information,The entity obtains/generates and uses relevant quality information to support internal control.
+CC2.2,Common Criteria - Communication and Information,Internal communication,The entity internally communicates information necessary to support internal control.
+CC2.3,Common Criteria - Communication and Information,External communication,The entity communicates with external parties regarding matters affecting internal control.
+CC3.1,Common Criteria - Risk Assessment,Objectives with clarity,The entity specifies objectives with sufficient clarity to enable risk identification/assessment.
+CC3.2,Common Criteria - Risk Assessment,Risk identification and analysis,The entity identifies risks to achievement of objectives and analyzes risks for management.
+CC3.3,Common Criteria - Risk Assessment,Fraud risk consideration,The entity considers the potential for fraud in assessing risks.
+CC3.4,Common Criteria - Risk Assessment,Assessing changes,The entity identifies and assesses changes that could significantly impact internal control.
+CC4.1,Common Criteria - Monitoring Activities,Ongoing/separate evaluations,The entity selects/develops/performs ongoing and/or separate evaluations of controls.
+CC4.2,Common Criteria - Monitoring Activities,Evaluating and communicating deficiencies,The entity evaluates and communicates internal control deficiencies to responsible parties.
+CC5.1,Common Criteria - Control Activities,Selecting control activities,The entity selects and develops control activities that mitigate risk to acceptable levels.
+CC5.2,Common Criteria - Control Activities,Technology general controls,The entity selects and develops general control activities over technology.
+CC5.3,Common Criteria - Control Activities,Policies and procedures deployment,The entity deploys control activities through policies and procedures.
+CC6.1,Common Criteria - Logical and Physical Access,Logical access security measures,The entity implements logical access security software/infrastructure/architecture over protected information assets.
+CC6.2,Common Criteria - Logical and Physical Access,User registration and authorization,The entity registers and authorizes new internal/external users prior to granting system access.
+CC6.3,Common Criteria - Logical and Physical Access,Role-based access management,The entity uses role-based access and authorizes modification/removal of access based on roles.
+CC6.4,Common Criteria - Logical and Physical Access,Physical access restriction,The entity restricts physical access to facilities and protected information assets.
+CC6.5,Common Criteria - Logical and Physical Access,Discontinuing protections,The entity discontinues logical/physical protections over data assets no longer required.
+CC6.6,Common Criteria - Logical and Physical Access,Boundary protection,The entity implements logical access security measures to protect against threats from outside system boundaries.
+CC6.7,Common Criteria - Logical and Physical Access,Data transmission restriction,The entity restricts the transmission/movement/removal of information to authorized users/processes.
+CC6.8,Common Criteria - Logical and Physical Access,Malicious software prevention,The entity implements controls to prevent/detect and act upon unauthorized/malicious software.
+CC7.1,Common Criteria - System Operations,Vulnerability detection,The entity uses detection/monitoring procedures to identify configuration changes/vulnerabilities.
+CC7.2,Common Criteria - System Operations,Anomaly monitoring,The entity monitors system components for anomalies indicative of malicious acts/errors.
+CC7.3,Common Criteria - System Operations,Security incident evaluation,The entity evaluates security events to determine whether they represent a security incident.
+CC7.4,Common Criteria - System Operations,Incident response,The entity responds to identified security incidents by executing a defined response program.
+CC7.5,Common Criteria - System Operations,Recovery from incidents,The entity identifies/develops/implements activities to recover from identified security incidents.
+CC8.1,Common Criteria - Change Management,Change management process,The entity authorizes/designs/develops/tests/approves and implements changes to infrastructure/software.
+CC9.1,Common Criteria - Risk Mitigation,Business disruption risk mitigation,The entity identifies/develops/implements risk mitigation activities for business disruptions.
+CC9.2,Common Criteria - Risk Mitigation,Vendor and business partner risk,The entity assesses and manages risks associated with vendors and business partners.
+A1.1,Availability,Capacity management,The entity maintains monitors current processing capacity/use to manage availability.
+A1.2,Availability,Environmental protections and recovery infrastructure,The entity authorizes/designs/develops/implements environmental protections software backup and recovery infrastructure.
+A1.3,Availability,Recovery plan testing,The entity tests recovery plan procedures to support achievement of availability commitments.
+C1.1,Confidentiality,Confidential information identification,The entity identifies and maintains confidential information to meet the entity's objectives.
+C1.2,Confidentiality,Confidential information disposal,The entity disposes of confidential information to meet the entity's objectives.
+PI1.1,Processing Integrity,Processing integrity objectives,The entity obtains/uses information regarding objectives relevant to processing integrity.
+PI1.2,Processing Integrity,System input controls,The entity implements policies/procedures over system inputs including completeness/accuracy.
+PI1.3,Processing Integrity,System processing controls,The entity implements policies/procedures over system processing to meet objectives.
+PI1.4,Processing Integrity,System output controls,The entity implements policies/procedures over system output including completeness/accuracy/timeliness.
+PI1.5,Processing Integrity,Storage of inputs and outputs,The entity implements policies/procedures to store inputs/outputs completely/accurately/timely.

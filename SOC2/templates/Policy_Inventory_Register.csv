@@ -1,0 +1,4 @@
+Policy ID,Policy Name,Owner,Version,Approval Date,Approved By,Next Review Date,Related Criteria,Status (Draft/Approved/Under Review/Retired)
+POL-001,Example: Information Security Policy,CISO,1.0,,Executive Leadership,,CC1.1,Approved
+POL-002,Example: Acceptable Use Policy,IT Security Manager,1.0,,CISO,,CC5.3,Approved
+POL-003,Example: Access Control Policy,IT Security Manager,1.0,,CISO,,"CC6.1, CC6.2, CC6.3",Approved
