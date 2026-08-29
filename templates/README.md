@@ -16,6 +16,14 @@ contain any organization-specific data — copy them into your own tracker and f
 | `Incident_Management_Tracker.csv` | Log of security incidents from detection through containment, root cause, corrective action, and closure. | A.5.24-A.5.28 |
 | `Media_Inventory_Log.csv` | Inventory of physical/removable storage media, classification, encryption status, and lifecycle status. | A.7.10 |
 | `Media_Transport_Log.csv` | Chain-of-custody log for media moved off-site (courier, hand-carry, electronic transfer), with protection and receipt confirmation. | A.7.10 |
+| `Nonconformity_CAPA_Register.csv` | Tracks corrective/preventive actions from any source (audit, incident, complaint, management review) through root cause to verified closure. | Clause 10 |
+| `Policy_Inventory_Register.csv` | Master list of every ISMS policy — owner, version, approval date, next review date. | Clause 7.5, A.5.1 |
+| `Access_Review_Recertification_Log.csv` | Periodic user-access review log — accounts reviewed, findings, access revoked. | A.5.18, A.8.2 |
+| `Vendor_ThirdParty_Risk_Register.csv` | Vendor risk tier, data access level, security questionnaire status, contract review dates. | A.5.19-A.5.22 |
+| `Security_Objectives_KPI_Tracker.csv` | Measurable security objectives with target vs. actual performance. | Clause 6.2 |
+| `Onboarding_Offboarding_Security_Checklist.csv` | New-hire security setup and termination task checklist (access, assets, agreements). | A.6.1, A.6.2, A.6.5, A.5.11 |
+| `BC_DR_Test_Log.csv` | Business continuity / disaster recovery test log — scenario, RTO/RPO targets vs. achieved, issues, remediation. | A.5.29, A.5.30 |
+| `Legal_Regulatory_Requirements_Register.csv` | Applicable laws/regulations/contracts and current compliance status. | Clause 4.2, A.5.31 |
 | `Management_Review_Agenda_Template.md` | Standing agenda for leadership's periodic ISMS review. | Clause 9.3 |
 
 ## Suggested workflow

@@ -1,0 +1,3 @@
+Objective ID,Objective Description,Metric/KPI,Target,Actual,Measurement Frequency,Related Control(s),Owner,Status (On Track/At Risk/Not Met),Review Date
+OBJ-001,Example: Reduce critical vulnerability remediation time,Mean time to remediate critical vulnerabilities,<=15 days,,Monthly,A.8.8,IT Security Manager,On Track,
+OBJ-002,Example: Improve security awareness training completion,Percentage of personnel completing annual training,100%,,Annually,A.6.3,HR,On Track,

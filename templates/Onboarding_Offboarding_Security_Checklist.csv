@@ -1,0 +1,10 @@
+Checklist ID,Type (Onboarding/Offboarding),Task,Related Control(s),Responsible,Completed (Y/N),Date Completed,Notes
+ON-001,Onboarding,Background screening completed prior to start date,A.6.1,HR,,,
+ON-002,Onboarding,Employment agreement includes security responsibilities,A.6.2,HR,,,
+ON-003,Onboarding,Confidentiality/NDA agreement signed,A.6.6,HR,,,
+ON-004,Onboarding,Security awareness training assigned and scheduled,A.6.3,HR,,,
+ON-005,Onboarding,Access provisioned per least-privilege / role,"A.5.18, A.5.16",IT Operations,,,
+OFF-001,Offboarding,All system access revoked/disabled,"A.5.18, A.8.2",IT Operations,,,
+OFF-002,Offboarding,Company assets returned (laptop, badge, tokens),A.5.11,IT Operations,,,
+OFF-003,Offboarding,Reminder of ongoing confidentiality obligations issued,A.6.5,HR,,,
+OFF-004,Offboarding,Email/account forwarding and data handoff completed,"A.5.14, A.5.11",IT Operations,,,

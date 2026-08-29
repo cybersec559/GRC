@@ -1,0 +1,3 @@
+Requirement ID,Law/Regulation/Contract,Jurisdiction/Scope,Applicable Requirement Summary,Compliance Status (Compliant/Partial/Non-Compliant/Under Review),Related Control(s),Owner,Last Review Date,Next Review Date
+LEG-001,Example: GDPR,EU data subjects,Lawful basis for processing and data subject rights,Compliant,A.5.34,Legal/Compliance,,
+LEG-002,Example: PCI DSS,Payment card data,Protection of cardholder data and account data,Compliant,"A.8.24, A.8.3",IT Security Manager,,
