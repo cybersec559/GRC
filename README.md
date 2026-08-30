@@ -8,7 +8,7 @@ specific to any one organization — copy what's useful into your own tracker an
 
 ## Contents
 
-This repo covers 11 compliance frameworks, each with the same structure: a framework reference
+This repo covers 12 compliance frameworks, each with the same structure: a framework reference
 doc, a flat `controls.csv` catalog, and a `templates/` folder of fillable artifacts adapted to
 that framework's own terminology.
 
@@ -127,3 +127,32 @@ configuration baseline material from a different project.
   (NIST SP 800-172 enhanced requirement) rows.
 - [`CMMC/templates/`](CMMC/templates) — 19 templates including a POA&M, a System Security Plan
   outline, and an SPRS Score Tracker.
+
+## Cross-Framework Control Mapping
+
+[`Framework-Control-Mapping.csv`](Framework-Control-Mapping.csv) is a single crosswalk across
+all 12 frameworks above: one row per common control domain (access control, encryption,
+vendor risk, incident response, business continuity, and so on), one column per framework,
+each cell holding the real control ID(s) in that framework addressing that domain. Each
+framework doc's own "Cross-Mapping" section stays theme-level and narrative; this file is the
+control-ID-level companion — useful for filtering in a spreadsheet to find every control that
+maps to a given domain across all 12 standards at once, or to answer "if an auditor asks for
+evidence under Framework X, what else does this same evidence satisfy?"
+
+Blank cells are expected and meaningful: a privacy-specific domain (data subject rights,
+lawful basis, breach notification) will genuinely have no equivalent in, say, CIS Controls v8
+or COBIT — that's not a gap in the mapping, it's an accurate reflection of scope.
+
+## Skills
+
+This repo ships three Claude Code skills under [`.claude/skills/`](.claude/skills) for working
+with it directly:
+
+- **`grc-crosswalk`** — look up a control ID or topic and get its equivalents across all 12
+  frameworks, using `Framework-Control-Mapping.csv`.
+- **`grc-gap-assessment`** — walk through a chosen framework's controls and produce a filled
+  applicability/readiness matrix. Always writes the filled-in result outside this repo — a
+  completed assessment describes a real environment and is exactly the proprietary content
+  this library is not meant to hold.
+- **`grc-add-framework`** — scaffold a 13th (or later) framework into this repo following the
+  existing folder/doc/template/crosswalk pattern.

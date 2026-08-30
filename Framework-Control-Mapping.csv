@@ -1,0 +1,58 @@
+Domain,ISO 27001:2022,SOC 2,PCI DSS v4.0,NIST CSF 2.0,HIPAA,GDPR,CCPA/CPRA,NIST SP 800-53,CIS Controls v8,COBIT 2019,FedRAMP,CMMC 2.0
+Information security policy & governance,A.5.1,CC5.3,12.1,GV.PO-01; GV.PO-02,164.316(a),,,PM-1,,APO01,,
+Board/leadership oversight & governance structure,A.5.2; A.5.4,CC1.2; CC1.3,,GV.RR-01; GV.OV-01,164.308(a)(2),,,PM-2,,EDM01; EDM05,,
+Risk assessment methodology,,CC3.1; CC3.2,12.3,ID.RA-01; ID.RA-03; ID.RA-04; ID.RA-05,164.308(a)(1)(i),,Civ. Code 1798.185(a)(15)(B),RA-1; RA-3,,APO12,,RA.L2-3.11.1
+Risk treatment/acceptance,,CC9.1,,ID.RA-06; GV.RM-04,164.308(a)(1)(ii),,,RA-7; CA-5,,APO12,DOC-4,CA.L2-3.12.2
+Asset inventory & ownership,A.5.9,,,ID.AM-01; ID.AM-02,,Art. 30,,CM-8; PM-5,1.1; 2.1,BAI09,,CM.L2-3.4.1
+Data classification,A.5.12; A.5.13,C1.1,,ID.AM-05,,Art. 9(1),Civ. Code 1798.140(ae),RA-2,3.7,APO14,CAT-1,
+Data retention & disposal,A.8.10,C1.2,3.1; 3.2,,164.310(d)(1)(i); 164.316(b)(1)(i),Art. 5(1)(e),Civ. Code 1798.100(a)(3),SI-12; MP-6,3.4; 3.5,APO14,,MP.L2-3.8.3
+Data masking & anonymization,A.8.11,,3.4,,,Art. 32,,SI-19,,,,
+Acceptable use of assets,A.5.10,,12.2,,164.310(b),,,PL-4,,,DOC-8,
+HR security screening & termination,A.6.1; A.6.5; A.5.11,,12.7,GV.RR-04,164.308(a)(3)(ii); 164.308(a)(3)(iii),,,PS-3; PS-4,,APO07,PS-1,PS.L2-3.9.1; PS.L2-3.9.2
+Disciplinary process for policy violations,A.6.4,,,,164.308(a)(1)(iii),,,PS-8,,,,
+Security awareness training,A.6.3,CC1.4,12.6,PR.AT-01; PR.AT-02,164.308(a)(5)(i),,,AT-2; AT-3,14.1; 14.2; 14.9,APO07,,AT.L2-3.2.1; AT.L2-3.2.2
+Insider threat program,,,,,,,,PM-12,,,,AT.L2-3.2.3
+Access control policy,A.5.15,CC6.1,7.1,PR.AA-05,164.308(a)(4)(ii),,,AC-1,6.8,DSS05,,AC.L2-3.1.1
+Identity & account provisioning/deprovisioning,A.5.16; A.5.18,CC6.2; CC6.3,7.2; 8.2,PR.AA-01,164.308(a)(3)(iii); 164.308(a)(4)(iii),,,AC-2,5.1; 6.1; 6.2,,,IA.L2-3.5.1
+Authentication (MFA & password management),A.8.5,CC6.1,8.3; 8.4; 8.5,PR.AA-03,164.308(a)(5)(iv); 164.312(d),,,IA-2; IA-5,5.2; 6.3; 6.4; 6.5,,,IA.L2-3.5.3; IA.L2-3.5.7
+Privileged access management,A.8.2; A.8.18,CC6.3,7.3,PR.AA-05,,,,AC-6,5.4,,,AC.L2-3.1.5; AC.L2-3.1.6; AC.L2-3.1.7
+Access review & recertification,A.5.18,CC6.3,7.2,PR.AA-05,164.308(a)(4)(iii),,,AC-2,5.1; 6.6,,,
+Segregation of duties,A.5.3,,,PR.AA-05,,,,AC-5,,,,AC.L2-3.1.4
+Session timeout & device lock,A.7.7,,,,164.312(a)(1)(iii),,,AC-11; AC-12,4.3,,,AC.L2-3.1.10; AC.L2-3.1.11
+Remote access & telework security,A.6.7,,,,,,,AC-17,12.7,,,AC.L2-3.1.12; AC.L2-3.1.13; AC.L2-3.1.14
+Wireless network security,,,2.3,,,,,AC-18,12.6,,,AC.L2-3.1.16; AC.L2-3.1.17
+Mobile device & BYOD management,A.8.1,,,,,,,AC-19,4.11; 4.12,,,AC.L2-3.1.18; AC.L2-3.1.19
+Physical security (facilities & entry control),A.7.1; A.7.2; A.7.4,CC6.4,9.1; 9.2,PR.AA-06,164.310(a)(1)(ii); 164.310(a)(1)(iii),,,PE-2; PE-3,,DSS05,,PE.L2-3.10.1; PE.L2-3.10.2
+Physical media handling & disposal,A.7.10; A.7.14,CC6.5,9.4,,164.310(d)(1)(ii); 164.310(d)(1)(iii),,,MP-2; MP-4; MP-6,3.9,,,MP.L2-3.8.1; MP.L2-3.8.5
+Network security & segmentation,A.8.20; A.8.22,CC6.6,1.2; 1.3,PR.IR-01,,,,SC-7,12.2; 13.4,,BND-1; BND-2,SC.L2-3.13.1; SC.L2-3.13.5
+Cryptography & key management,A.8.24,,3.5; 3.6; 3.7; 4.2,PR.DS-01; PR.DS-02,164.312(a)(1)(iv); 164.312(e)(1)(ii),Art. 32,,SC-12; SC-13,3.6; 3.10; 3.11,,,SC.L2-3.13.8; SC.L2-3.13.10; SC.L2-3.13.11; SC.L2-3.13.16
+Secure software development lifecycle,A.8.25; A.8.28,,6.1; 6.2,PR.PS-06,,Art. 25,,SA-3; SA-8,16.1; 16.10,BAI03,,SC.L2-3.13.2
+Change management,A.8.32,CC8.1,6.5,ID.RA-07,,,,CM-3,,BAI06,SCR-1; SCR-2,CM.L2-3.4.3; CM.L2-3.4.4
+Configuration management,A.8.9,CC5.2,2.1; 2.2,PR.PS-01,,,,CM-2; CM-6,4.1; 4.2,BAI10,DOC-7,CM.L2-3.4.1; CM.L2-3.4.2
+End-of-life/unsupported software & hardware management,,,,PR.PS-02; PR.PS-03,,,,SA-22,2.2,,,
+Vulnerability management,A.8.8,CC7.1,6.3; 11.3,ID.RA-01,,,,RA-5,7.1; 7.5; 7.6,,CONMON-1,RA.L2-3.11.2; RA.L2-3.11.3
+Threat intelligence,A.5.7,,,ID.RA-02,,,,PM-16; RA-10,,,,RA.L3-3.11.1e
+Patch management,,,,PR.PS-02,,,,SI-2,7.3; 7.4,,,SI.L2-3.14.1
+Malware & endpoint protection,A.8.7,CC6.8,5.1; 5.2; 5.3,PR.PS-05,164.308(a)(5)(ii),,,SI-3,10.1; 10.2; 10.7,,,SI.L2-3.14.2; SI.L2-3.14.4
+Email & web browser security (phishing/spam/filtering),A.8.23,,5.4,,,,,SI-8,9.2; 9.3; 9.5,,,
+Data loss prevention,A.8.12,CC6.7,,,,,,AC-4,3.13,,,AC.L2-3.1.3
+Logging & audit trail management,A.8.15,,10.1; 10.2; 10.3; 10.5,PR.PS-04,164.312(b),,,AU-2; AU-6; AU-9; AU-11,8.1; 8.2; 8.9; 8.10,,,AU.L2-3.3.1; AU.L2-3.3.8
+Time synchronization for logging,A.8.17,,10.6,,,,,AU-8,8.4,,,AU.L2-3.3.7
+Security monitoring & incident detection,A.8.16; A.5.25,CC7.1; CC7.2; CC7.3,10.4; 10.7; 11.5,DE.CM-01; DE.AE-02; DE.AE-08,164.308(a)(1)(iv); 164.308(a)(5)(iii),,,SI-4; AU-6,8.11; 13.1,MEA01,,AU.L2-3.3.5; SI.L2-3.14.6
+Capacity & performance monitoring,A.8.6,A1.1,,PR.IR-04,,,,,,BAI04,,
+Incident response & reporting,A.5.24; A.5.26; A.5.27; A.5.28,CC7.4; CC7.5,12.10,RS.MA-01; RS.MA-02; RS.CO-02,164.308(a)(6)(i),,,IR-4; IR-6; IR-8,17.1; 17.3; 17.4,DSS02,DOC-6; INC-2,IR.L2-3.6.1; IR.L2-3.6.2; IR.L2-3.6.3
+Breach notification requirements,,,,RS.CO-02,164.400-414,Art. 33; Art. 34,Civ. Code 1798.150,IR-6,,,INC-1,IR.L2-3.6.2
+Business continuity planning,A.5.29; A.5.30,CC9.1,,PR.IR-03,164.308(a)(7)(iii),,,CP-2,,DSS04,DOC-5,
+Disaster recovery & backup testing,A.8.13,A1.2; A1.3,,PR.DS-11; RC.RP-03,164.308(a)(7)(i); 164.308(a)(7)(ii); 164.308(a)(7)(iv),,,CP-4; CP-9; CP-10,11.1; 11.2; 11.5,DSS04,CONMON-5,
+Vendor & third-party risk management,A.5.19; A.5.22,CC9.2,12.8,GV.SC-06; GV.SC-07,164.308(b)(1),,,SR-6,15.1; 15.5; 15.6,APO10,BND-3,
+ICT / supply chain risk management,A.5.21,,,GV.SC-01; GV.SC-04; GV.SC-09,,,,SR-1; SR-2; SR-3,16.4,,,
+Contract & SLA security requirements,A.5.20,,12.9,GV.SC-05,164.314(a)(1)(i),Art. 28,Civ. Code 1798.100(d),SA-4,15.4,APO10,,
+Service provider / processor obligations,,,,GV.SC-02,164.502(e) / 164.504(e),Art. 28,Civ. Code 1798.140(ag),SA-9,15.2,,,
+Cloud security,A.5.23,,,,,,,SA-9,,,CAT-2,
+Internal audit,A.5.35,CC4.1,,,164.308(a)(8),,,CA-2,,MEA02,3PAO-1; 3PAO-3,CA.L2-3.12.1
+Management review,,CC4.2,,GV.OV-01; GV.OV-02; GV.OV-03,,,,PM-6,,MEA01,,
+Nonconformity & corrective action,A.5.36,CC4.2,,ID.IM-01; ID.IM-03,,,,CA-5,,MEA02,DOC-4,CA.L2-3.12.2
+Penetration testing & security testing,A.8.29,CC7.1,11.4,,,,Civ. Code 1798.185(a)(15)(A),CA-8,18.1; 18.2; 18.5,,CONMON-4,
+Data subject rights (access/deletion/portability),A.5.34,,,,164.524; 164.526,Art. 15; Art. 16; Art. 17; Art. 20,Civ. Code 1798.100(a); Civ. Code 1798.105; Civ. Code 1798.106; Civ. Code 1798.100(d),,,,,
+Lawful basis & consent,,,,,164.508,Art. 6(1)(a); Art. 7(1)-(2),,PT-4,,,,
+Data protection impact assessment,,,,,,Art. 35; Art. 36,Civ. Code 1798.185(a)(15)(B),RA-8,,,,
